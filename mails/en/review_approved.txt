@@ -1,0 +1,9 @@
+Hi {firstname},
+
+Your review for the product {product_name} has been approved. You can check your review by clicking here ({product_url}).
+
+Keep shopping with IndusDiva.com and donot forget to share your future experiences with us.
+
+The IndusDiva Team
+care@indusdiva.com
++91-80-65655500

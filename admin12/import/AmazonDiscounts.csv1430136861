@@ -1,0 +1,4 @@
+Affiliate ID,ProductId,Discount Value,Discount Type(amount or percentage)
+1,9872,0.35,percentage
+1,9875,0.35,percentage
+1,9876,0.35,percentage

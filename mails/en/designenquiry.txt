@@ -1,0 +1,5 @@
+From: {name}
+Email: {email}
+Phone: {phone}
+Country: {country}
+Enquiry: {enquiry}

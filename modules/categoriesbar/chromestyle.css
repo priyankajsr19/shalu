@@ -1,0 +1,120 @@
+.chromestyle {
+    font-size: 10px;
+    font-weight: bold;
+    height: 33px;
+    position: relative;
+	margin-bottom:10px;
+	border-bottom:1px solid #cacaca;
+	clear:both;
+
+}
+
+.chromestyle ul {
+    margin: 0;
+    padding: 6px 0 0;
+}
+
+.chromestyle ul li{
+display: inline;
+position: relative;
+padding:0 !important; margin:0 !important;
+}
+.chromestyle ul li a {
+    color: #494949;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 !important;
+    padding: 3px 8px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #FFFFFF;
+	border-left: 1px solid #FFFFFF;
+	border-right: 1px solid #BCBCBC;
+}
+
+
+.chromestyle ul li:last-child a{ border-right:1px solid #ffffff;}
+
+.chromestyle ul li a.menu_head:hover, .chromestyle ul li a.menu_head.selected{ 
+	background:#fff;
+	border-left: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    border-top: 4px solid #5A016D;
+    padding:3px 8px 11px 8px;
+}
+.chromestyle ul li a:hover, .chromestyle ul li a.selected{ /*script dynamically adds a class of "selected" to the current active menu item*/
+color: #000;
+background:#fff;
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+* html .dropmenudiv { top:38px !important; }
+*+html .dropmenudiv {top:38px !important;}
+.dropmenudiv {
+    background-color: white;
+    font: 10px Arial, Helvetica, sans-serif;
+    left: 0px !important;
+    position: absolute;
+    top:24px !important;
+    visibility: hidden;
+    z-index: 900;
+    width: 200px;
+	border:1px solid #CCC;
+	border-width:0 1px 1px;
+    *border-top: 1px solid #ffffff;
+	-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-moz-border-radius-bottomright: 5px;
+-moz-border-radius-bottomleft: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+padding:5px 0;
+
+
+
+}
+
+.dropmenudiv ul {
+   padding: 0 !important;
+   margin: 0 !important;
+   list-style:none;
+   line-height:none;
+}
+.dropmenudiv ul li{
+	
+display: inline;
+position: relative;
+padding:3px 0 !important;
+*html padding:0!important;
+border:none;
+margin:0 !important;
+list-style:none;
+text-align:left;
+line-height:none !important;
+}
+
+.dropmenudiv ul li a{
+width: auto;
+display: block;
+text-indent: 3px;
+text-decoration: none;
+font-weight: bold;
+color: black;
+font-size:11px;
+margin:2px 5px !important;
+padding:5px !important;
+*html padding:0!important;
+text-shadow: none;
+text-align:left;
+border:none;
+}
+
+.dropmenudiv ul li a:hover{
+background-color: #52247F;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+color:#fff;
+/*text-shadow: 0 1px 0 #93031e;*/
+}

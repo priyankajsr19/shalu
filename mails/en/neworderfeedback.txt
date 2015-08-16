@@ -1,0 +1,9 @@
+From: {customer_name}
+Overall: {$overall}
+Will recommend: {$recommend}
+Collection: {$collection}
+Products: {$products}
+Fitting: {$fitting}
+Delivery: {$delivery}
+Support: {$support}
+Suggestions: {$suggestions}

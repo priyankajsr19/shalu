@@ -1,0 +1,12 @@
+Hi {freinds_name},
+
+INDUSDIVA Gift Card in you Inbox.
+
+You are Special. {sender_name} has gifted you a ${voucher_value} IndusDiva Gift Card to shop for your favorite product from the finest Indian Ethnic Wear Collection online.
+{product_name}
+
+To claim the Gift Card, please use the voucher code <b>{voucher_code}</b> at www.indusdiva.com to pick any product, just for you.
+
+If you have any questions, please ping us on live chat or send a mail to care@indusdiva.com.
+
+Click here(http://www.indusdiva.com/) to redeem the card. 

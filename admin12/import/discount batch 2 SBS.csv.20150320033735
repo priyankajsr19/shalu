@@ -1,0 +1,501 @@
+Product_id,Name,Discount Percentage
+15013,Black and White Chanderi Silk Salwar Kameez,40
+15014,Maroon Silk Cotton Salwar Kameez,50
+15015,Green Cotton Salwar Kameez,40
+15017,Green Cotton Salwar Kameez,40
+15018,Burnt Orange Chanderi Silk Salwar Kameez,40
+15020,White Cotton Salwar Kameez,40
+15021,Grey Silk Cotton Salwar Kameez,40
+15022,Hot Pink Chanderi Silk Salwar Kameez,40
+15023,White and Orange Cotton and Net Salwar Kameez,40
+15024,Blue Chanderi Silk Salwar Kameez,40
+15025,Teal Blue Silk Cotton Salwar Kameez,40
+15029,Maroon Cotton Salwar Kameez,40
+15031,Peach Jute Cotton Salwar Kameez,40
+15032,Maroon Cotton Salwar Kameez,40
+15033,Green and Blue Chanderi Silk Salwar Kameez,40
+15034,Multicolored Silk And Net Salwar Kameez,40
+15036,Gold plated Austrian Diamond and Kundan Earring and Necklace Set,30
+15040,Gold plated Austrian Diamond and Kundan Earring and Necklace Set,40
+15043,Gold plated Semi Precious Stone Earrings,30
+15044,Gold plated Semi Precious Stone Earrings,30
+15045,Gold plated Semi Precious Stone Earrings,30
+15048,Gold plated Semi Precious Stone Earrings,30
+15050,Gold plated Austrian Diamond and Kundan Earring and Necklace Set,40
+15056,Gold plated Austrian Diamond and Kundan Necklace and Earring Set,40
+15057,Gold plated Austrian Diamond Necklace and Earring Set,40
+15350,Turquoise Blue Brocade Sherwani Patiala,25
+15351,Brown Brocade Kurta Set,25
+15352,Blue Brocade Kurta Set,25
+15353,Red Brocade Kurta Set,25
+15354,Blue Brocade Kurta Set,25
+15356,Red Raw Silk Kurta Set,25
+15357,Sea Blue Brocade Sherwani Churidaar,25
+15358,Green Raw Silk Sherwani Churidaar,25
+15359,Silver Grey Linen Pathani Set,25
+15360,Grey Linen Pathani Set,25
+15361,Black Linen Pathani Set,25
+15362,Mocha Brown Linen Nehru Suit,25
+15363,Golden Jacquard Kurta Set,25
+15364,Maroon Jacquard Kurta Set,25
+15365,Purple Raw Silk Kurta Set,25
+15366,Olive Green Raw Silk Kurta Set,25
+15367,Maroon Art Silk Sherwani,25
+15368,Peacock Green Art Silk Sherwani,25
+15371,Purple Dupion Kurta Set,25
+15372,Cream Silk Kurta Set,25
+15373,Coffee Silk Kurta Set,25
+15374,Black Silk and Shimmer Kurta Set,25
+15375,Maroon Silk and Shimmer Kurta Set,25
+15376,Mustard YellowSilk Kurta Set,25
+15377,Rust Silk Sherwani,25
+15378,Sky Blue Silk Kurta Set,25
+15379,Golden Yellow Silk Sherwani,25
+15380,Red Art Silk Kurta Set,25
+15385,Light Pink Cotton Kurta Set,25
+15498,Black Faux Georgette Kurta,25
+15511,Black Faux Georgette Kurta,60
+15520,Black Faux Georgette Tunic,25
+15562,Royal Blue Bhagalpuri Silk Printed Saree,30
+15563,Maroon Bhagalpuri Silk Printed Saree,30
+15564,Forest Green Bhagalpuri Silk Printed Saree,30
+15593,Beige And Maroon Bhagalpuri Silk Printed Saree,30
+15594,Beige And Green Bhagalpuri Silk Printed Saree,30
+15595,Beige And Purple Bhagalpuri Silk Printed Saree,30
+15596,Beige And Rust Bhagalpuri Silk Printed Saree,30
+15605,Multi-coloured Silk Cotton Saree with Kasuti Embroidery,60
+15609,Multi-coloured Silk Cotton Ilkal Saree,60
+15615,Chikoo Brown Silk Cotton Ilkal Saree,50
+15617,Bottle Green Silk Cotton Ilkal Saree,60
+15723,Green Art Silk Maharshtrian Paithani Saree,30
+15724,Orange Art Silk Maharshtrian Paithani Ready made Saree,30
+15726,White Pure Silk Saree,40
+15727,White Pure Silk Saree,60
+15728,Maroon Pure Silk Saree,60
+15729,Blue Pure Silk Saree,40
+15730,White Pure Silk Saree,70
+15731,Multicolored  Pure Silk Saree,40
+15732,Purple Pure Silk Saree,40
+15733,Blue Pure Silk Saree,40
+15734,Blue Pure Silk Saree,35
+15735,Blue Pure Silk Saree,35
+15736,Bottle Green Pure Silk Saree,35
+15737,Forest Green Pure Silk Saree,40
+15738,Wine and Gold Pure Silk Saree,40
+15739,Wine and Gold Pure Silk Saree,35
+15740,Lavender Pure Silk Saree,35
+15741,Green Art Silk Saree,40
+15742,Blue Art Silk Saree,40
+15743,Green Art Silk Saree,40
+15744,Grey Art Silk Saree,40
+15745,Blue Art Silk Saree,40
+15746,Wine and Gold Art Silk Saree,40
+15747,Maroon Art Silk Saree,40
+15748,Golden Yellow and Magenta Art Silk Saree,40
+15749,Bottle Green Art Silk Saree,40
+15750,Dark Purple Art Silk Saree,40
+15751,Blue Art Silk Saree,40
+15752,Pink Art Silk Saree,40
+15753,Blue Art Silk Saree,40
+15754,Blue Art Silk Saree,40
+15755,Blue Art Silk Saree,40
+15756,Blue Art Silk Saree,40
+15758,Purple Art Silk Saree,40
+15759,Orange Art Silk Saree,40
+15760,Orange Art Silk Saree,40
+15761,Blue Art Silk Saree,40
+15762,Purple Art Silk Saree,40
+15763,Purple Art Silk Saree,40
+15765,Lavender Art Silk Saree,40
+15766,Maroon Art Silk Saree,40
+15767,Sea Green Art Silk Saree,40
+15768,Night Blue Art Silk Saree,40
+15769,Violet Art Silk Saree,40
+15770,Wine and Gold Art Silk Saree,40
+15771,Maroon Art Silk Saree,40
+15772,Lavender Art Silk Saree,40
+15773,Blue Art Silk Saree,40
+15774,Forest Green Art Silk Saree,40
+15775,Blue Art Silk Saree,40
+15776,Blue and Pink Dhoop Chaon Art Silk Saree,40
+15777,Orange Art Silk Saree,40
+15778,Blue and Maroon Dhoop Chaon Art Silk Saree,40
+15779,Green Blue Art Silk Saree,40
+15825,Off White Satin Clutch,30
+15826,Off White Satin Clutch,30
+15827,Off White Satin Clutch,30
+15828,Off White Satin Clutch,30
+15829,Off White Satin Clutch,30
+15830,Off White Satin Clutch,30
+15831,Brown Jute Clutch,30
+15832,Off White Jute Clutch,30
+15833,Cream Jute Clutch,30
+15834,Maroon Velvet Clutch,30
+15835,Brown Jute Clutch,30
+15849,Blue Cotton Kurti ,50
+15901,Yellow and Green Chanderi Silk Lehenga Choli,40
+15902,Cream and Gold Chanderi Silk Lehenga Choli,40
+15904,Maroon Pure Silk Lehenga Choli,40
+15905,Multicolored  Chanderi Silk Lehenga Choli,40
+15906,Bottle Green Chanderi Silk Lehenga Choli,40
+16129,Neon Pink and Green Half and Half Georgette Saree,25
+16134,White Net Saree,25
+16135,Dull Gold Georgette Saree,25
+16136,Fluorescent Green and Orange Half and Half Georgette and Jacquard Crepe Saree,25
+16137,Dusky Rose Georgette Saree,25
+16138,Dark Pink Georgette Saree,25
+16139,Navy Blue and Yellow Georgette Saree,25
+16140,Dark Green Georgette Saree,25
+16143,Black Suede Clutch,20
+16144,Black Velvet Clutch,20
+16145,Gold Raw Silk Clutch,20
+16146,Coral Pink Satin Clutch,20
+16147,Red Raw Silk Clutch,20
+16148,Black Suede Clutch,20
+16149,Black Suede Clutch,20
+16150,Blue Cotton Clutch,20
+16206,Black and Neon Pink Georgette Half and Half Saree,20
+16207,Multicolored Georgette Half and Half Saree,20
+16208,Multicolored Georgette Saree,25
+16209,Multicolored Georgette Half and Half Saree,20
+16210,Multicolored Georgette Half and Half Saree,20
+16211,Multicolored Georgette Half and Half Saree,20
+16212,Multicolored Georgette Half and Half Saree,25
+16213,Multicolored Georgette Half and Half Saree,20
+16214,Multicolored Georgette Half and Half Saree,20
+16215,Multicolored Georgette Saree,20
+16216,Multicolor Georgette Half and Half Saree,20
+16217,Black and White Georgette Half and Half Saree,20
+16218,Multicolor Georgette Half and Half Saree,20
+16291,Bottle Green and Gold Pure Silk Brocade Saree,40
+16292,Sky Blue and Gold Pure Silk Brocade Saree,40
+16293,Cream and Gold Pure Silk Brocade Saree,40
+16294,Purple and Gold Pure Silk Brocade Saree,40
+16295,Bottle Green and Gold Pure Silk Brocade Saree,40
+16296,Lake Blue and Gold Pure Silk Brocade Saree,40
+16297,Off White and Gold Pure Silk Brocade Saree,40
+16298,Plum and Gold Pure Silk Brocade Saree,40
+16299,Lake Blue and Gold Pure Silk Brocade Saree,40
+16300,Purple and Gold Pure Silk Brocade Saree,40
+16301,Purple and Gold Pure Silk Brocade Saree,40
+16302,Hot Pink and Gold Pure Silk Brocade Saree,40
+16303,Dark Maroon and Gold Pure Silk Brocade Saree,40
+16304,Rose Pink and Gold Pure Silk Brocade Saree,40
+16305,Fuchsia Pink Pure Silk Brocade Saree,40
+16306,Violet and Gold Pure Silk Brocade Saree,40
+16307,Orange and Gold Pure Silk Brocade Saree,40
+16308,Red and Gold Pure Silk Brocade Saree,40
+16309,Rose Pink and Gold Pure Silk Brocade Saree,40
+16310,Dark Maroon and Gold Pure Silk Brocade Saree,40
+16311,Rose Pink and Gold Pure Silk Brocade Saree,40
+16412,Multi-coloured Art Silk Saree,50
+16413,Wine coloured Art Silk Saree,50
+16415,Multi-coloured Art Silk Saree,50
+16416,Maroon Art Silk Saree,50
+16418,Green Art Silk Saree,50
+16422,Green Art Silk Saree,50
+16424,Multi-coloured Art Silk Saree,50
+16425,Maroon Art Silk Saree,50
+16426,Mustard Art Silk Saree,50
+16427,Green Art Silk Saree,50
+16429,Dark Navy Blue Art Silk Saree,50
+16430,Dark Navy Blue Art Silk Saree,50
+16431,Multi-coloured Art Silk Saree,50
+16435,Multi-coloured Art Silk Saree,50
+16437,Blue Art Silk Saree,50
+16438,Multi-coloured Art Silk Saree,50
+16441,Multi-coloured Art Silk Saree,50
+16442,Burnt Orange Art Silk Saree,50
+16443,Forest Green Art Silk Saree,50
+16444,Multi-coloured Art Silk Saree,50
+16470,Baby Pink Viscose Georgette Anarkali Suit,60
+16472,Off White Viscose Georgette Anarkali Suit,25
+16484,Multicolored Alloy Square Pendant,25
+16485,Multicolored Alloy Floral Designer Pendant,25
+16486,Multicolored Alloy Tortoise Designer Pendant,25
+16491,Multicolored Alloy Leaf Designer Pendant,25
+16496,Green and Golden Kundan Gold Fashion Earrings with Enamel Work,25
+16500,Golden Alloy Charming Gold Pendant,25
+16502,Golden Alloy Expensive Gold Pendant,25
+16503,Golden Alloy Designer Gold Pendant,25
+16504,Golden Alloy Elegant Gold Pendant,70
+16506,Golden Alloy Latest Trend Gold Pendant,25
+16507,Golden Alloy Awesome Heart Pendant,25
+16508,Charming Golden Alloy D-top Pendant,25
+16511,Pink and Gold Austrian Diamond Charming Necklace,25
+16513,Blue Austrian Diamond Classy Party Necklace,25
+16514,Red and Green Austrian Diamond Wedding Necklace,25
+16549,Black Art Silk Saree,25
+16552,Parrot Green and Violet Half and Half Jute Silk and Chiffon Saree,25
+16561,Purple Jacquard Net Saree,25
+16566,Light Wine coloured Linen Jute Silk Saree,25
+16569,Dark Lavender Linen Jute Silk Saree,25
+16576,Lemon Yellow and Off White Art Silk and Linen Jute Saree,25
+16578,Mustard Yellow and Violet Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,20
+16579,Mustard Yellow and Mauve Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,20
+16580,Light Maroon and Off White Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,20
+16581,Violet and Green Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,20
+16584,Violet Chiffon Saree,25
+16587,Red Net and Jacquard Saree,25
+16588,Hot Pink Net and Jacquard Saree,25
+16589,Mustard Yellow Net and Jacquard Saree,25
+16631,Bottle Green Handloom Cotton Saree,30
+16696,Orange Cotton Kurti,60
+16801,Pink Pure Silk Brocade Bridal Saree,25
+16802,White Pure Silk Bridal Handloom Saree,30
+16803,Yellow Pure Silk Bridal Saree,30
+16804,Dark Red Pure Silk Brocade Bridal Saree,30
+16805,Bright Pink Pure Silk Brocade Bridal Saree,25
+16806,Green Cotton Saree with Gold Zari Work,50
+16807,Peacock Green Cotton Saree with Gold Zari Work,50
+16809,Yellow Cotton Saree with Gold Zari Work,50
+16810,Maroon Cotton Saree with Gold Zari Work,50
+16811,Purple Silk Cotton Saree with Gold Zari Work,50
+16813,Green Cotton Saree with Gold Zari Work,50
+16814,Dark Maroon Cotton Saree with Gold Zari Work,50
+16815,Maroon Cotton Saree with Gold Zari Work,50
+16817,Wine Cotton Saree with Gold Zari Work,50
+16818,Brown Cotton Saree with Gold Zari Work,50
+16819,Purple Cotton Saree with Gold Zari Work,50
+16820,Rust Cotton Saree with Gold Zari Work,50
+16821,Lake Blue Cotton Saree with Gold Zari Work,50
+16823,Brown Cotton Saree with Gold Zari Work,50
+16824,Brown Cotton Saree with Gold Zari Work,50
+16825,Brown Cotton Saree with Gold Zari Work,50
+16826,Bottle Green Cotton Saree with Gold Zari Work,50
+16827,Forest Green Cotton Saree with Gold Zari Work,50
+16828,White Banarasi Art Silk Dupion Kurta with Patiala,25
+16829,Maroon Banarasi Art Silk Dupion Kurta with Patiala,25
+16830,White Banarasi Art Silk Dupion Kurta with Breeches,25
+16831,Cream Banarasi Art Silk Dupion Kurta with Patiala,25
+16832,White Banarasi Art Silk Dupion Kurta with Breeches,25
+16833,White Banarasi Art Silk Dupion Kurta with Breeches,25
+16834,White Banarasi Art Silk Dupion Kurta with Breeches,25
+16835,Brown and Maroon Banarasi Art Silk Dupion Kurta with Salwar,25
+16837,Maroon Banarasi Art Silk Dupion Kurta with Patiala,20
+16838,Cream Banarasi Art Silk Dupion Kurta with Patiala,25
+16839,Maroon Banarasi Art Silk Dupion Kurta with Patiala,25
+16840,Cream Banarasi Art Silk Dupion Kurta with Breeches,25
+16841,Maroon Banarasi Art Silk Dupion Kurta with Patiala,25
+16842,Dark Maroon Banarasi Art Silk Dupion Kurta with Patiala,25
+16843,White  Banarasi Art Silk Dupion Kurta with Breeches,25
+16844,White  Banarasi Art Silk Dupion Kurta with Breeches,25
+16845,Dark Maroon Banarasi Art Silk Dupion Kurta with Patiala,25
+16846,Cream Banarasi Art Silk Dupion Kurta with Breeches,25
+16847,Cream Banarasi Art Silk Dupion Kurta with Breeches,25
+16848,Drak Brown Banarasi Art Silk Dupion Kurta with Breeches,25
+16849,Dark Blue Banarasi Art Silk Dupion Kurta with Patiala,25
+16850,Dark Green Banarasi Art Silk Dupion Kurta with Trousers,25
+16851,Black Banarasi Art Silk Dupion Kurta with Trousers,25
+16852,Black Banarasi Art Silk Dupion Kurta with Patiala,25
+16853,Maroon Banarasi Art Silk Dupion Kurta with Trousers,25
+16854,Dark Blue  Banarasi Art Silk Dupion Kurta with Trousers,25
+16855,Black Banarasi Art Silk Dupion Kurta with Trousers,60
+16856,Dark Green Banarasi Art Silk Dupion Kurta with Trousers,25
+16857,Black Banarasi Art Silk Dupion Kurta with Trousers,25
+16858,Black Banarasi Art Silk Dupion Kurta with Trousers,25
+16859,Dark Cream and Orange Banarasi Art Silk Dupion Kurta with Breeches,25
+16860,Red Banarasi Art Silk Dupion Kurta with Breeches,25
+16861,Golden Banarasi Art Silk Dupion Kurta with Breeches,25
+16862,White Banarasi Art Silk Dupion Kurta with Patiala,25
+16863,Dark Maroon Banarasi Art Silk Dupion Kurta with Patiala,25
+16864,Grey Banarasi Art Silk Dupion Kurta with Patiala,25
+16873,Blue Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16874,Pink Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16875,Teal Blue Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16876,Grey Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16877,Orange Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16878,Dark Maroon Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16879,Burnt Orange Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16880,Light Plum Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16881,Maroon Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16882,Purple and Black Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16883,Brown Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16884,Pink Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16885,Multi-coloured Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16886,Mustard Yellow and Green Dhoop Chaon Pure Cotton Kameez,50
+16887,Multi-coloured Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16888,Orange Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16889,Maroon Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16890,Peach Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16891,Maroon Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16892,Light Blue Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16893,Blue Pure Cotton Mangalgiri Salwar Kameez and Dupatta,50
+16894,Sunshine Yellow Pure Silk Brocade Bridal Saree,25
+16895,Golden Cream Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16896,Golden Cream Banaras Silk Jacquard and Art Dupion Silk Sherwani and Salwar,25
+16897,White  Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16898,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16899,Golden Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16900,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16901,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16902,Light Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16903,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16904,Light Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Salwar,25
+16905,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16906,Cream Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16907,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Salwar,25
+16908,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Salwar,20
+16909,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Dhoti,25
+16910,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16911,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16912,Red Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16913,Black and Red Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16914,Cream Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16915,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,70
+16916,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16917,Cream Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16918,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16919,Red Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16920,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16921,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16922,Light Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16923,Light Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16924,Ruby Red Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16925,White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Dhoti,25
+16926,White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Dhoti,25
+16927,Red Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16928,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,20
+16929,Off White Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16930,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16932,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16933,Black and Maroon Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16934,Maroon and Black Dhoop Chaon Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16935,Dark Purple Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16936,Blue and Multi-coloured Banaras Silk Jacquard and Art Dupion Silk Sherwani and Patiala,25
+16937,Gold Banaras Silk Jacquard and Art Dupion Silk Sherwani and Dhoti,25
+16938,Blue Banaras Silk Jacquard and Art Dupion Silk Sherwani and Churidar,25
+16939,Black Ikat Handloom Cotton Salwar Kameez,40
+16940,Purple and Brown Ikat Handloom Cotton Salwar Kameez,40
+16942,Blue Ikat Handloom Cotton Salwar Kameez,35
+16943,Multi-coloured Ikat Handloom Cotton Salwar Kameez,40
+16944,Maroon Ikat Handloom Cotton Salwar Kameez,40
+16945,Red Ikat Handloom Cotton Salwar Kameez,40
+16946,Navy Blue Ikat Handloom Cotton Salwar Kameez,40
+16947,Brown Ikat Handloom Cotton Salwar Kameez,40
+16948,Multi-coloured Ikat Handloom Cotton Salwar Kameez,40
+16949,Blue Ikat Handloom Cotton Salwar Kameez,40
+16950,Lake Blue Ikat Handloom Cotton Kameez,40
+16951,Off White Banarasi Jacquard Art Silk and Dupion Sherwani Suit,25
+16952,Gold Banarasi Jacquard Art Silk and Dupion Sherwani Suit,25
+16953,White Banarasi Jacquard Art Silk and Dupion Sherwani Suit,25
+16954,Gold Banarasi Jacquard Art Silk and Dupion Sherwani Suit,25
+16955,Red Banarasi Jacquard Art Silk and Dupion Sherwani Suit,25
+16958,Purple Viscose and Satin Suit,25
+16960,Grey Viscose and Satin Suit,25
+16964,Bluish Black Viscose and Satin Suit,25
+16994,Off White Banarasi Jacquard Art Silk and Dupion Sherwani,25
+16996,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+16997,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+16998,Off White Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+16999,Pearl White Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17000,Pearl White Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17001,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17002,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17003,Pure White Banarasi Jacquard Art Silk and Dupion Kurta Pajama,20
+17005,Golden Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17006,Pure White Banarasi Jacquard Art Silk and Dupion Sherwani,25
+17007,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17008,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17009,Golden Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17010,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17011,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17012,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17013,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,20
+17014,Cream Cotton Kurta Pajama,25
+17015,Sky Blue Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17017,Red and Maroon Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17019,Off White Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17020,Pearl White Banarasi Jacquard Art Silk and Dupion Sherwani,20
+17021,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17092,Mustard and Purple Half and Half Linen Jute and Chiffon Saree,25
+17095,Purple and Royal Blue Half and Half Linen Jute and Chiffon Saree,25
+17096,Yellow and Maroon Half and Half Viscose Net and Silk Saree,25
+17102,Maroon and White Half and Half Net and Silk Saree,25
+17104,Maroon and Beige Half and Half Net and Silk Saree,25
+17106,Green and Beige Half and Half Net and Silk Saree,25
+17107,Hot Pink and Beige Half and Half Net and Silk Saree,25
+17109,Green Half and Half Silk and Net Saree,25
+17110,Leaf Green Half and Half Silk and Net Saree,25
+17112,Peacock Blue Banarasi Jacquard Art Silk and Dupion Kurta Set,20
+17113,Red Banarasi Jacquard Art Silk and Dupion Sherwani,25
+17114,Cream Banarasi Jacquard Art Silk and Dupion Kurta Pajama,25
+17115,Red Banarasi Jacquard Art Silk and Dupion Kurta Pajama,50
+17116,White Linen Kurta and Churidaar Set,25
+17117,White Linen Kurta and Churidaar Set,60
+17118,White Linen Kurta and Churidaar Set,25
+17119,White Linen Kurta and Churidaar Set,25
+17120,White Linen Kurta and Churidaar Set,25
+17121,White Linen Kurta and Churidaar Set,25
+17122,Cream Linen Kurta and Churidaar Set,20
+17123,Light Cream Linen Kurta and Churidaar Set,25
+17124,Yellow Organza and Jute Silk Saree,25
+17125,Lavender Organza and Jute Silk Saree,25
+17127,Pink Organza and Jute Silk Saree,25
+17136,White Pure Chiffon Saree,25
+17137,Pink Pure Chiffon Saree,25
+17138,Yellow Pure Chiffon Saree,25
+17387,Beige Brasso Saree,25
+17396,Black Brasso Saree,25
+17400,Maroon and Gold Half and Half Brasso Saree,25
+17403,Purple and Green Half and Half Brasso Saree,25
+17404,Lavender and Navy Blue Half and Half Viscose Georgette Saree,25
+17406,Yellow and Pink Half and Half Viscose Georgette Saree,25
+17407,Green Viscose Georgette Saree,25
+17408,Dark Pink Viscose Georgette Saree,25
+17409,Black Brasso Saree,25
+17414,Multi-coloured Brasso Saree,25
+17415,Pink and Teal Blue Half and Half Viscose Georgette Saree,25
+17416,Magenta and Green Half and Half Viscose Georgette Saree,25
+17547,Purple Chiffon Saree,25
+17551,Yellow Chiffon Jacquard Saree,25
+17607,Antique Gold plated Purple and White Stone Bracelets,25
+17611,Antique Gold plated Purple and Green Stone Bangles ,30
+17612,Antique Gold plated Green White and Red Bead and Stone Bangles,25
+17719,Turquoise Faux Georgette Banarasi Saree,40
+17731,Sky Blue Resham Kota Banarasi Saree ,70
+17736,Purple Pure Silk Upadda Saree,40
+17737,Multicolored Pure Silk Upadda Saree,40
+17738,Blue and Gold Pure Silk Upadda Saree,40
+17739,Lake Blue Pure Silk Upadda Saree,40
+17740,Orange and Red Pure Silk Upadda Saree,40
+17742,Purple Pure Silk Upadda Saree,40
+17743,Red Pure Silk Upadda Saree,40
+17744,Mustard and Blue Pure Silk Upadda Saree,40
+17746,Light Blue and Leaf Green Pure Silk Upadda Saree,40
+17747,Royal Blue Pure Silk Upadda Saree,40
+17748,Multicolored Pure Silk Upadda Saree,40
+17760,Mustard Yellow Dupion Silk Saree,70
+17762,Chocolate Brown Dupion Silk Saree,40
+17766,Brown Acrylic Cotton Saree,40
+17789,Sky Blue Cotton Kurti,90
+17947,Green Art Silk Banarasi Saree ,50
+17948,Blue Art Silk Banarasi Saree ,50
+17951,Mustard and Black shaded Super Net Banarasi Saree,40
+17952,Yellow Super Net Banarasi Saree,40
+17953,Orange Super Net Banarasi Saree,40
+17955,Brown and Red shaded Super Net Banarasi Saree ,40
+17956,Maroon Super Net Banarasi Saree ,40
+17967,Flame Red Art Silk Saree,40
+17979,Black Pure Cotton Saree,40
+17980,Bottle Green Pure Cotton Saree,40
+17981,Mustard Yellow Pure Cotton Saree,40
+18004,Yellow Pure Chanderi Silk Anarkali Suit,30
+18005,Black Georgette Anarkali Suit,30
+18007,Black Georgette Anarkali Suit,30
+18008,White Chanderi Silk Straight Cut Salwar Kameez Suit,30
+18010,Off White Woven Net Anarkali Suit,30
+18018,White Faux Georgette A Line Tunic,60
+18021,Black A Line Angrakha styled Faux Georgette Kurta,25
+18024,Blue Faux Georgette Straight Cut Kurta,25
+18027,Peach Faux Georgette Straight Cut Kurta,60
+18029,Black Straight Cut Faux Georgette Kurta,25
+18033,Black Achkan styled Faux Georgette Tunic,25
+18034,Fuchsia Pink A Line Faux Georgette Kurta,25
+18130,Red Cotton Anarkali and Churidar Set,25
+18131,Yellow Silk Cotton Short Kurti and Churidaar,25
+18132,Parrot Green Cotton Short Kurti and Patiala,25
+18133,Dark Pink Cotton Shor Kurti and Patiala,25
+18134,Teal Blue Cotton Short Kurti and Patiala ,25
+18135,Pink Silk Cotton Short Kurti and Patiala ,25
+18136,Beige Silk Cotton Short Kurti and Patiala ,25

@@ -1,0 +1,46 @@
+id_product,name,MRP ,category,Active
+750,Light Brown Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+751,Green Art Silk Banarasi Saree ,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+752,Maroon Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+753,Mustard Yellow Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+754,Maroon Art Silk Banarasi Saree with Buttas,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+755,Blue Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+756,Grey Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+757,Brown Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+758,Blue Paisley Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50, 60",1
+759,Brown and Purple Art Silk Banarasi Saree,49,"1, 2, 6, 7, 8,22, 23, 24, 25, 28, 29, 33, 37, 41, 45, 46, 47, 48",1
+760,Green and Purple Art Silk Banarasi Saree,49,"1, 2, 6, 7, 8,22, 23, 24, 25, 28, 29, 33, 37, 41, 45, 46, 47, 48",1
+761,Dark Purple Art Silk Banarasi Saree,49,"1, 2, 6, 7, 8,22, 23, 24, 25, 28, 29, 33, 37, 41, 45, 46, 47, 48",1
+762,Pink Art Silk Banarasi Saree,114,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50",1
+763,Mustard Yellow Paisley Art Silk Banarasi Saree,114,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50",1
+764,Peach Paisley nArt Silk Banarasi Saree,114,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 50",1
+765,Light Green Art Silk Banarasi Saree,114,"1, 2, 6, 7, 8,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48",1
+766,Tussar Brown Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+767,Light Brown Paisley Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+768,Pink Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+769,Maroon Paisley Art Silk Banarasi Saree,35,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+770,Green Paisley Art Silk Banarasi Saree,44,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+771,Maroon Paisley Art Silk Banarasi Saree,44,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+772,Dark Orange Art Silk Banarasi Saree,46,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+773,Maroon Art Silk Banarasi Saree with Leaf Motif,46,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 45, 46, 47, 48, 54",1
+774,Blue Paisley Art Silk Banarasi Saree ,78,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+775,Purple Paisley Art Silk Banarasi Saree,79,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+776,Dark Green Art Silk Banarasi Saree,79,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+777,Maroon Art Silk Banarasi Saree with Patch Border,79,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+778,Purple Art Silk Banarasi Saree with Bud Motif,76,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+779,Dark Maroon Art Silk Banarasi Saree,76,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+780,Magenta Paisley Art Silk Banarasi Saree,69,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+781,Dark Turquoise Art Silk Banarasi Saree,135,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+782,Dark Turquoise Art Silk Banarasi Saree with Waves,128,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+783,Maroon Art Silk Banarasi Saree with Geometric motifs,123,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+784,Dark Maroon Art Silk Banarasi Saree with Waves,132,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+785,Dark Maroon Art Silk Banarasi Saree with Motifss,119,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+786,Dark Turquoise Art Silk Banarasi Saree with Buttas,117,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+787,Dark Maroon Art Silk Banarasi Saree with Buttas,117,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+788,Mustard Art Silk Banarasi Saree with Floral Motifs,112,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+789,Dual Tonal Green and Maroon Art Silk Banarasi Saree,112,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+790,Green and Maroon Art Silk Banarasi Saree,108,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+791,Dark Blue Art Silk Banarasi Saree,87,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+792,Purple Paisley Art Silk Banarasi Saree,87,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+793,Dark Green Art Silk Banarasi Saree with Buttas,87,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1
+794,Mustard and Pink Art Silk Banarasi Saree,87,"1, 2, 6, 7, 8, 9,22, 23, 24, 25, 28, 29, 33, 41, 42, 45, 46, 47, 48, 50, 54, 60",1

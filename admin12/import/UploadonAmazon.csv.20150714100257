@@ -1,0 +1,582 @@
+ID,Code,Name,Exclusive
+58,BLR0030057,Saffron Art Silk Saree with Floral Motif,1
+532,MUM0010005,Green Silk Straight Cut Salwar Kameez,1
+534,MUM0010007,Brown Cotton Straight Cut Salwar Kameez,1
+539,MUM0010014,Chocolate Cotton Angrakha Salwar Kameez,1
+546,MUM0010023,White Cotton Mirror Work Salwar Kameez,1
+558,MUM0010035,Rust Cotton Salwar Kameez with Floral Pattern,1
+564,MUM0010041,Blue Silk Salwar Kameez with Buttas,1
+6241,MUM0070094,Green and Burnt Yellow Banarasi Jacquard Anarkali Suit,1
+7076,SRT0040343,Red Bhagalpuri Art Silk Saree,1
+8384,MUM0010043,Beige and Mehendi Green Silk Salwar Kameez with Printed designs and Brocade work,1
+8389,MUM0010048,Mustard Yellow Cotton Silk Salwar Kameez with Floral Embroidery,1
+8390,MUM0010049,Grey Silk Salwar Kameez with Printed Designs,1
+8393,MUM0010052,Green Silk Salwar Kameez with Floral Prints and Sequin Work,1
+8394,MUM0010053,Red Silk Salwar Kameez with Printed Design,1
+8396,MUM0010055,Navy Blue Silk Salwar Kameez with Ethnic and Floral designs,1
+8399,MUM0010058,Green Cotton Silk Salwar Kameez with Brocade work,1
+8400,MUM0010059,Blue Silk Salwar Kameez with Embroidery,1
+8403,MUM0010062,Yellow Silk Salwar Kameez with Brocade work,1
+8408,MUM0010067,Mustard Yellow Cotton Silk Salwar Kameez with Ethnic Designs,1
+8414,MUM0010073,Green Silk Salwar Kameez with Design Prints,1
+8415,MUM0010074,Orange Silk Salwar Kameez with Brocade,1
+8418,MUM0010077,Blue Silk Salwar Kameez with Vertical Pintucks,1
+8419,MUM0010078,Pink Silk Salwar Kameez with Design Prints,1
+11194,MUM0070128,Monochrome Kora Silk and Net Anarkali Suit,1
+14267,SRT0110002,Maroon Zari Tanchoi Kurta Pajama,1
+14268,SRT0110003,Deep Wine Zari Tanchoi Kurta Pajama,1
+14269,SRT0110004,Firozi Blue Dohra Brocade Kurta Pajama,1
+14270,SRT0110005,Purple Dohra Brocade Kurta Pajama,1
+14271,SRT0110006,Burgundy Dohra Brocade Kurta Pajama,1
+14272,SRT0110007,Blue Dohra Brocade Kurta Pajama,1
+14273,SRT0110008,Violet Zari Tanchoi Kurta Pajama,1
+14274,SRT0110009,Purple Zari Tanchoi Kurta Pajama,1
+14275,SRT0110010,Cardinal Red Zari Tanchoi Kurta Pajama,1
+14276,SRT0110011,Magenta Zari Tanchoi Kurta Pajama,1
+14277,SRT0110012,Blue Dohra Brocade Kurta Pajama,1
+14279,SRT0110014,Grey Dohra Brocade Kurta Pajama,1
+14283,SRT0110018,Dark Green Brocade Kurta Pajama,1
+14284,SRT0110019,Purple Brocade Kurta Pajama,1
+14285,SRT0110020,Maroon Brocade Kurta Pajama,1
+14289,SRT0110024,Maroon Zari Brocade  Kurta Pajama,1
+14290,SRT0110025,Oriental Fuschsia Zari Brocade  Kurta Pajama,1
+14378,SRT0110026,Purple Zari and Brocade Nehru Coat and Jodhpuri Pants,1
+14379,SRT0110027,Dark Brown Zari and Brocade Nehru Coat and Jodhpuri Pants,1
+14381,SRT0110029,Maroon Tanchoi Silk Nehru Coat and Jodhpuri Pants,1
+14384,SRT0110032,Purple Art Silk Nehru Jacket and Trousers,1
+14385,SRT0110033,Cream Jute Nehru Jacket and Jodhpuri Pants,1
+14386,SRT0110034,Black Art Silk Nehru Jacket and Trousers,1
+14387,SRT0110035,Blue and Turquoise Blue Dhoop Chaon Nehru Jacket and Trousers,1
+14388,SRT0110036,Black Art Silk Nehru Jacket and Trousers,1
+14389,SRT0110037,Bronze Raw Silk Nehru Jacket and Jodhpuri Pants,1
+14390,SRT0110038,Grey and Black Linen Pathani Suit and Churidar,1
+14391,SRT0110039,Golden Raw Art Silk Kurta and Churidar,1
+14392,SRT0110040,Cream Silk Brocade Kurta and Churidar,1
+14393,SRT0110041,Violet Raw Silk Kurta Pyjama,1
+14394,SRT0110042,Pink and Golden Dhoop Chaon Art Silk Kurta Pyjama,1
+14395,SRT0110043,White Linen Pathani Suit and Churidar,1
+14396,SRT0110044,Black Pathani Suit and Churidar,1
+14397,SRT0110045,Light Blue Raw Silk Kurta and Churidar,1
+14398,SRT0110046,Dark Olive Green Raw Silk Kurta Pyjama,1
+14399,SRT0110047,Purple Raw Silk Kurta Pyjama,1
+14400,SRT0110048,Cream Raw Silk Kurta and Churidar,1
+14401,SRT0110049,Dark Blue Raw Silk Kurta Pyjama,1
+14402,SRT0110050,White Linen Kurta and Salwar,1
+14776,SRT0050336,White Net Saree,1
+15101,SRT0110052,Black Raw Silk Nehru Coat and Jodhpuri Pants,1
+15103,SRT0110054,Black Art Silk Nehru Jacket and Breeches,1
+15106,SRT0110057,White Art Silk Sherwani and Churidar,1
+15107,SRT0110058,Black Art Silk Sherwani and Patiala,1
+15108,SRT0110059,White Cotton Silk Brocade Sherwani and Patiala,1
+15109,SRT0110060,Light Brown Linen Sherwani and Patiala,1
+15113,SRT0110064,Maroon Art Silk Nehru Jacket and Breeches ,1
+15115,SRT0110066,Maroon Zari Tanchoi Sherwani and Patiala,1
+15116,SRT0110067,Maroon Art Silk Nehru Jacket and Breeches,1
+15117,SRT0110068,Purple Dupion Tanchoi Nehru Jacket and Churidar,1
+15118,SRT0110069,Black Art Silk Nehru Jacket and Patiala,1
+15119,SRT0110070,Purple Brocade Nehru Jacket and Patiala ,1
+15120,SRT0110071,Cerulean Blue Art Silk Nehru Jacket and Churidar,1
+15121,SRT0110072,Silver Silk Sherwani and Patiala,1
+15122,SRT0110073,Dark Purple Brocade Nehru Jacket and Churidar,1
+15123,SRT0110074,Peacock Blue Tanchoi Silk Sherwani and Patiala,1
+15124,SRT0110075,Purple Tanchoi Silk Sherwani and Patiala ,1
+15126,SRT0110079,Maroon Dupion Nehru Jacket and Breeches,1
+15127,SRT0110080,Red Brocade Sherwani and Churidar,1
+15128,SRT0110081,Maroon Brocade Nehru Jacket and Breeches,1
+15129,SRT0110083,Maroon Brocade Nehru Jacket and Breeches,1
+15130,SRT0110084,Green Jacquard and Art Silk Nehru Jacket and Breeches,1
+15131,SRT0110085,Purple Jacquard and Art Silk Nehru Jacket and Breeches ,1
+15133,SRT0110087,Maroon and Black Silk Nehru Jacket and Breeches ,1
+15134,SRT0110088,Blue Nehru Jacket and Breeches ,1
+15135,SRT0110089,Black Art Silk Nehru Jacket and Churidar,1
+15136,SRT0110090,Blue Silk Brocade Nehru Jacket and Trousers ,1
+15137,SRT0110091,Royal Blue Brocade Nehru Jacket and Patiala,1
+15197,SRT0110095,White Brocade Sherwani with Patiala,1
+15198,SRT0110096,White Brocade Silk Sherwani with Churidaar,1
+15200,SRT0110098,Off White Brocade Sherwani with Churidaar,1
+15201,SRT0110099,Off White Jari Brocade Sherwani with Churidaar,1
+15202,SRT0110100,Burnt Orange Kela Brocade Sherwani with Churidaar,1
+15203,SRT0110101,Rust Brocade Sherwani with Churidaar,1
+15204,SRT0110102,Off White Brocade Sherwani with Churidaar,1
+15205,SRT0110103,White Brocade Sherwani with Churidaar,1
+15206,SRT0110104,Teal Green Art Brocade Sherwani with Patiala,1
+15207,SRT0110106,White Brocade Sherwani with Churidaar,1
+15209,SRT0110112,Maroon Kinkhab Sherwani with Churidaar,1
+15210,SRT0110113,Off White Dohra Brocade Sherwani with Churidaar,1
+15211,SRT0110114,Off White Dupion  Sherwani with Churidaar,1
+15212,SRT0110115,White Lurex Dupion Sherwani with Churidaar,1
+15213,SRT0110116,Maroon Kela Brocade Sherwani with Patiala,1
+15214,SRT0110119,Magenta Raw Silk Sherwani with Patiala,1
+15215,SRT0110120,White Silk Brocade Sherwani with Churidaar,1
+15216,SRT0110122,White Brocade Sherwani with Patiala,1
+15218,SRT0110124,White Tanchoi Sherwani with Churidaar,1
+15219,SRT0110125,Off White Silk Sherwani with Churidaar,1
+15220,SRT0110126,"Off White Jacquard, Silk Sherwani with Churidaar",1
+15221,SRT0110127,"White Jacquard, Silk Sherwani with Churidaar",1
+15222,SRT0110128,Cream Brocade Sherwani with Churidaar,1
+15223,SRT0110129,"Off White Jacquard, Silk Sherwani with Churidaar",1
+15224,SRT0110130,"White Jacquard, Silk Sherwani with Churidaar",1
+15225,SRT0110131,White Dohra Zari Brocade Sherwani with Dhoti,1
+15227,SRT0110133,White Silk Sherwani with Dhoti and Churidaar,1
+15230,SRT0110135,Cream Brocade Sherwani with Churidaar,1
+15231,SRT0110136,Dark Brown Brocade Sherwani with Churidaar,1
+15232,SRT0110137,Orange Silk Brocade Sherwani with Churidaar,1
+15234,SRT0110139,Salmon Red Brocade Sherwani with Patiala,1
+15235,SRT0110140,Maroon Brocade Sherwani with Patiala,1
+15236,SRT0110141,Dark Olive Art Silk Sherwani with Churidaar and Dhoti,1
+15507,MUM0130073,Red Faux Georgette Kurta,1
+16566,SRT0040493,Light Wine coloured Linen Jute Silk Saree,1
+16568,SRT0040495,Mustard Yellow Linen Jute Silk Saree,1
+16569,SRT0040496,Dark Lavender Linen Jute Silk Saree,1
+16577,SRT0040504,Dark Peach and Off White Art Silk and Linen Jute Saree,1
+16578,SRT0040505,Mustard Yellow and Violet Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,1
+16579,SRT0040506,Mustard Yellow and Mauve Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,1
+16581,SRT0040508,Violet and Green Half and Half Bhagalpuri Jacquard and Linen Jute Silk Saree,1
+17096,SRT0040525,Yellow and Maroon Half and Half Viscose Net and Silk Saree,1
+17102,SRT0040531,Maroon and White Half and Half Net and Silk Saree,1
+17103,SRT0040532,Royal Blue and Magenta Half and Half Net and Silk Saree,1
+17104,SRT0040533,Maroon and Beige Half and Half Net and Silk Saree,1
+17789,BLR1100119,Sky Blue Cotton Kurti,1
+18018,MUM0130093,White Faux Georgette A Line Tunic,1
+18027,MUM0130102,Peach Faux Georgette Straight Cut Kurta,1
+18131,MUM0010080,Yellow Silk Cotton Short Kurti and Churidaar,1
+18133,MUM0010082,Dark Pink Cotton Shor Kurti and Patiala,1
+18134,MUM0010083,Teal Blue Cotton Short Kurti and Patiala ,1
+18135,MUM0010084,Pink Silk Cotton Short Kurti and Patiala ,1
+18137,MUM0010086,Beige Cotton A Line Churidar Kameez,1
+18138,MUM0010087,Mustard Silk Cotton Short Kurta and Patiala,1
+18140,MUM0010089,Black and Red Cotton Anarkali and Churidar,1
+18146,MUM0010095,Dark Pink Cotton Short Kurta and Patiala,1
+18147,MUM0010096,Light Green Silk Cotton Short Kurta and Churidar,1
+18149,MUM0010098,Yellow Cotton Anarkali and Churidar,1
+18150,MUM0010099,Sand Brown Silk Cotton Anarkali and Churidar,1
+18152,MUM0010101,Orange Silk Cotton Short Kurta and Patiala,1
+18153,MUM0010102,Blue Cotton Short Kurta and Patiala,1
+18154,MUM0010103,Yellow Cotton Anarkali and Churidar,1
+18157,MUM0010106,Black and White Silk Cotton Short Kurta and Churidar,1
+18158,MUM0010107,Beige Cotton Short Kurta and Patiala,1
+18159,MUM0010108,Multi-coloured Cotton A Line Churidar Kameez,1
+18163,MUM0010112,Light Brown Cotton Short Kurta and Churidar,1
+18164,MUM0010113,Teal Blue Silk Cotton Short Kurta and Churidar,1
+18165,MUM0010114,Beige Cotton Anarkali and Churidar,1
+18166,MUM0010115,Mint Green Silk Cotton Short Kurta and Churidar,1
+18168,MUM0010117,Yellow Cotton Short Kurta and Patiala,1
+18169,MUM0010118,Blue Cotton Anarkali and Churidar,1
+18172,MUM0010121,Teal Green Cotton Short Kurta and Churidar,1
+18173,KOL0010001,Blue Net Anarkali Suit,1
+18397,BLR0020629,Light Blue Kanjeevaram Inspired Art Silk Saree,1
+18398,BLR0020630,Maroon Kanjeevaram Inspired Art Silk Saree,1
+18399,BLR0020631,Wine Kanjeevaram Inspired Art Silk Saree,1
+19365,MUM0030460,Cream Brocade Sherwani and Churidar,1
+19728,MUM0220037,Brown Cotton Silk Jacket Kurti and Churidar,1
+19729,MUM0220038,Dark Green Raw Silk and Cotton Silk In-cut Kurti and Churidar,1
+19731,MUM0220040,Beige Handloom Khadi Cotton Kurti Churidar,1
+20152,MUM0230067,Maroon and Mustard Georgette A Line Kurti,1
+20163,MUM0230080,Pink Cotton A Line Kurti,1
+20175,MUM0230092,Peach Cotton A Line Kurti,1
+21049,SRT0140008,Cream Georgette and Shantoon Silk A Line Tunic ,1
+21051,SRT0140010,Peach Net Georgette and Shantoon Silk A Line Tunic ,1
+21828,MUM0300187,Red and Blue Art Silk and Jacquard Indo Western Kurta and Bridges,1
+21830,MUM0300189,Gold Art Silk and Brocade Kurta and Churidaar,1
+21833,MUM0300192,Green Cotton Kurta and Churidaar,1
+21835,MUM0300194,Wine and Black Cotton Kurta and Churidaar,1
+21837,MUM0300196,Cream Cotton and Velvet Sherwani and Churidaar,1
+21842,MUM0300201,Maroon Art Silk and Brocade Kurta and Churidaar,1
+21843,MUM0300202,Red Art Silk and Brocade Kurta and Churidaar,1
+21845,MUM0300204,Off White Cotton and Velvet Sherwani and Churidaar,1
+21847,MUM0300206,Cream Art Silk Kurta and Churidaar,1
+21848,MUM0300207,Off White Art Silk Kurta and Churidaar,1
+21850,MUM0300209,White Cotton Kurta and Churidaar,1
+21851,MUM0300210,White Cotton Kurta and Churidaar,1
+21852,MUM0300211,Off White Jacquard Kurta and Churidaar,1
+21856,MUM0300215,White Cotton Kurta and Churidaar,1
+21857,MUM0300216,Yellow Linen Indo Western Jacket,1
+21858,MUM0300217,Green Linen Indo Western Jacket,1
+21859,MUM0300218,Blue Linen Indo Western Jacket,1
+23973,MUM0500012,Multicolor Cotton Straight Cut Kurta,1
+23978,MUM0500017,Black Cotton A-line Kurti,1
+24726,MUM0070277,Off White and Magenta and Black Pure Georgette Anarkali and Churidaar,1
+58936,MUM0520019,Green Cotton Straight Cut Kurti,1
+59168,MUM0490002,Shaded Pink Chiffon A-line Kurti,1
+59171,MUM0490005,Orange and Blue Cotton A-line Kurti,1
+59173,MUM0490007,Green Chiffon A-line Kurti,1
+59176,MUM0490010,Pink Cotton A-line Kurta,1
+59177,MUM0490011,Navy Blue and Beige Silk Cotton Tunic,1
+59181,MUM0490015,Blue and Black Cotton A-line Kurti,1
+60010,MUM0010243,Off White Cotton Anarkali Churidaar,1
+60015,MUM0010248,Green Cotton Anarkali Churidaar,1
+60016,MUM0010249,Orange Cotton Anarkali Churidaar,1
+60018,MUM0010251,Beige Cotton Anarkali Churidaar,1
+60022,MUM0010255,Blue Cotton Anarkali Churidaar,1
+60029,MUM0010226,Teal Blue Cotton Anarkali Churidaar,1
+60036,MUM0010233,Black Cotton Straight Cut Kameez and Churidaar,1
+60037,MUM0010234,Dark Teal Green Cotton Anarkali Churidaar,1
+60039,MUM0010236,Yellow Cotton Anarkali Churidaar,1
+60040,MUM0010237,Orange Cotton Anarkali Churidaar,1
+60042,MUM0010239,Cream Cotton Anarkali Churidaar,1
+60043,MUM0010240,Mustard Cotton Anarkali Churidaar,1
+61673,MUM0550001,Peach Georgette Short Top,1
+61674,MUM0550002,Light Yellow Georgette Short Top,1
+61676,MUM0550004,Black and Brown Georgette Short Top,1
+61677,MUM0550005,Multicolor Georgette Short Top,1
+61682,MUM0550010,Peach Georgette Short Top,1
+61683,MUM0550011,Black and White Georgette Short Top,1
+61684,MUM0550012,Red Georgette Tunic,1
+61685,MUM0550013,Black and White Georgette Tunic,1
+62667,MUM0490068,Pink and Purple Crepe Straight Cut Kurta,1
+62668,MUM0490069,Pink and Green Crepe Straight Cut Kurta,1
+62845,KOL0020005,White and Gold Tussar Matka Silk Jamdani Woven Bengal Handloom Half and Half Saree,1
+63711,BLR1300046,Yellow Cotton Straight Cut Kurti,1
+63767,SRT0040640,Off White and Light Purple Bhagalpuri Jacquard Silk and Chiffon Half and Half Saree,1
+63797,BLR1330020,White Cotton Short Top,1
+66184,MUM0610005,Black Georgette Tunic,1
+66185,MUM0610006,Multicolor Georgette Tunic,1
+66186,MUM0610007,Off White and Green Georgette Tunic,1
+66187,MUM0610008,Shaded Pink Georgette Tunic,1
+66188,MUM0610009,Orange Georgette Tunic,1
+66189,MUM0610010,Green Georgette Tunic,1
+66190,MUM0610011,Sky Blue Georgette Kaftan,1
+66191,MUM0610012,Light Blue Georgette Tunic,1
+66192,MUM0610013,Dark Pink Georgette Tunic,1
+66193,MUM0610014,Purple Georgette Tunic,1
+66194,MUM0610015,Multicolor Georgette Tunic,1
+66195,MUM0610016,White and Pink Georgette Tunic,1
+66198,MUM0610019,Dark Cream Georgette Tunic,1
+66377,KOL0030040,Off White Chanderi Art Silk Anarkali and Churidaar,1
+66391,KOL0030054,Red Chanderi Art Silk and Cotton Straight Cut Kameez and Patiala,1
+66453,SRT0151566,Off White and Light Green Georgette and Shantoon Straight Cut Kameez and Churidaar,1
+66672,BLR1300192,Multicolor Cotton Baggy Pants,1
+66673,BLR1300193,Black Cotton Baggy Pants,1
+66674,BLR1300194,White Cotton Baggy Pants,1
+66675,BLR1300195,Blue and White Cotton Free Size Skirt,1
+66697,SRT0071497,Brown Georgette Tunic,1
+67097,SRT0110269,Yellow Raw Silk Nehru Jacket,1
+67098,SRT0110270,Black Raw Silk Nehru Jacket,1
+67099,SRT0110271,Blue Brocade Nehru Jacket,1
+67100,SRT0110272,Royal Blue Raw Silk Nehru Jacket,1
+67329,MUM0490175,White Crepe Palazzo,1
+67330,MUM0490176,White Crepe Palazzo,1
+67331,MUM0490177,White Crepe Palazzo,1
+67332,MUM0490178,Black Crepe Palazzo,1
+67333,MUM0490179,Off White Crepe Palazzo,1
+67335,MUM0490181,Cream Crepe Palazzo,1
+67336,MUM0490182,Cream Crepe Palazzo,1
+67337,MUM0490183,Blue Crepe Palazzo,1
+67338,MUM0490184,Off White Crepe Palazzo,1
+67340,MUM0490186,Purple Crepe Palazzo,1
+67342,MUM0490188,Black Crepe Palazzo,1
+67345,MUM0490191,Black Crepe Trouser,1
+67348,MUM0490194,Cream Crepe Trouser,1
+67349,MUM0490195,Navy Blue Crepe Trouser,1
+67350,MUM0490196,White Crepe Trouser,1
+67351,MUM0490197,White Crepe Trouser,1
+67352,MUM0490198,Black Crepe Trouser,1
+67353,MUM0490199,White Crepe Trouser,1
+67354,MUM0490200,Beige Crepe Trouser,1
+67355,MUM0490201,Light Purple Crepe Trouser,1
+67356,MUM0490202,Beige Crepe Trouser,1
+67357,MUM0490203,White and Black Crepe Trouser,1
+67359,MUM0490205,White and Blue Crepe Trouser,1
+67360,MUM0490206,Black Crepe Trouser,1
+67363,MUM0490075,Pink and Sky Blue Georgette Straight Cut Kurta,1
+67364,MUM0490076,Purple and Off White Georgette Straight Cut Short Kurti,1
+67367,MUM0490079,Black Crepe Straight Cut Kurti,1
+67378,MUM0490090,Beige and Off White Georgette Straight Cut Kurta,1
+67381,MUM0490093,Black and White Georgette Straight Cut Kurta,1
+67387,MUM0490099,Off White and Blue Georgette Straight Cut Kurta,1
+67389,MUM0490101,White Georgette Straight Cut Kurta,1
+67395,MUM0490107,Teal Green Georgette Straight Cut Kurta,1
+67409,MUM0490121,Multicolor Georgette Straight Cut Kurta,1
+67412,MUM0490124,Pink and Grey Georgette Straight Cut Kurti,1
+67415,MUM0490127,Royal Blue Georgette Straight Cut Kurta,1
+67418,MUM0490130,Multicolor Georgette Straight Cut Kurta,1
+67419,MUM0490131,Light Green Georgette Straight Cut Kurta,1
+67422,MUM0490134,White and Yellow Georgette Straight Cut Kurta,1
+67424,MUM0490136,Black and Green Georgette Straight Cut Kurta,1
+67441,MUM0490153,Orange and Yellow Georgette Straight Cut Kurta,1
+67803,MUM0590060,Blue Georgette Straight Cut Kurti,1
+67804,MUM0590061,Pink Georgette Straight Cut Kurti,1
+67805,MUM0590062,Green Georgette Straight Cut Kurti,1
+67806,MUM0590063,Yellow Georgette Straight Cut Kurta,1
+67810,MUM0590067,Black and Red Cotton Straight Cut Kurta,1
+67812,MUM0590069,Black and Pink Cotton Straight Cut Kurta,1
+67813,MUM0590070,Black and Royal Blue Cotton Straight Cut Kurta,1
+67822,MUM0590084,Red Georgette A-line Kurta,1
+67824,MUM0590086,Orange Georgette A-line Kurta,1
+67879,BLR1430001,Purple Cotton Saree,1
+67891,BLR1430013,Blue Silk Cotton Saree,1
+67895,BLR1430017,Light Pink Silk Cotton Saree,1
+67898,BLR1430020,Black Silk Cotton Saree,1
+67905,BLR1430027,Off White Silk Cotton Saree,1
+67911,BLR1430033,Grey Silk Cotton Saree,1
+67912,BLR1430034,Grey Silk Cotton Saree,1
+67926,BLR1430048,Light Orange and Green Silk Cotton Saree,1
+67927,BLR1430049,Blue and Green Silk Cotton Saree,1
+67929,BLR1430051,Pink and Green Silk Cotton Saree,1
+67931,BLR1430106,Beige and Maroon Faux Cotton Saree,1
+67932,BLR1430107,Beige and Green Faux Cotton Saree,1
+67934,BLR1430109,Beige and Yellow Faux Cotton Saree,1
+67935,BLR1430110,White and Mustard Faux Cotton Saree,1
+67936,BLR1430111,White and Blue Faux Cotton Saree,1
+67937,BLR1430112,White and Green Faux Cotton Saree,1
+67939,BLR1430114,White and Purple Faux Cotton Saree,1
+67941,BLR1430116,White and Green Faux Cotton Saree,1
+67942,BLR1430117,White and Blue Faux Cotton Saree,1
+67943,BLR1430118,White and Yellow Faux Cotton Saree,1
+67944,BLR1430119,Multicolor Faux Cotton Saree,1
+67945,BLR1430120,Multicolor Faux Cotton Saree,1
+67946,BLR1430121,Multicolor Faux Cotton Saree,1
+67947,BLR1430122,Multicolor Faux Cotton Saree,1
+67948,BLR1430123,Multicolor Faux Cotton Saree,1
+67949,BLR1430124,Multicolor Faux Cotton Saree,1
+67950,BLR1430125,Multicolor Faux Cotton Saree,1
+67951,BLR1430126,Light Blue and White Faux Cotton Saree,1
+67952,BLR1430127,Light Orange and White Faux Cotton Saree,1
+67954,BLR1430129,Blue and White Faux Cotton Saree,1
+67957,BLR1430132,Purple and White Faux Cotton Saree,1
+67958,BLR1430133,Light Orange and White Faux Cotton Saree,1
+67959,BLR1430134,Blue and White Faux Cotton Saree,1
+67960,BLR1430135,Light Blue and White Faux Cotton Saree,1
+67961,BLR1430136,Light Orange and White Faux Cotton Saree,1
+67962,BLR1430137,Grey and White Faux Cotton Saree,1
+67963,BLR1430138,Light Purple and White Faux Cotton Saree,1
+67964,BLR1430139,Light Blue and White Faux Cotton Saree,1
+67965,BLR1430140,Blue and White Faux Cotton Saree,1
+67966,BLR1430145,Mustard Yellow Faux Cotton Saree,1
+67972,BLR1430151,Beige and Blue Faux Cotton Saree,1
+67975,BLR1430052,White Kora Cotton Saree,1
+67976,BLR1430053,Off White Kora Cotton Saree,1
+67978,BLR1430055,White Cotton Kasavu Saree,1
+67979,BLR1430056,White Cotton Kasavu Saree,1
+67986,BLR1430067,White and Maroon Faux Cotton Saree,1
+67991,BLR1430072,Blue and Beige Faux Cotton Saree,1
+67992,BLR1430073,Orange and Beige Faux Cotton Saree,1
+67993,BLR1430074,Blue and Beige Faux Cotton Saree,1
+67994,BLR1430075,Pink and Beige Faux Cotton Saree,1
+67995,BLR1430076,White and Black Faux Cotton Saree,1
+68004,BLR1430085,Orange and White Faux Cotton Saree,1
+68006,BLR1430087,Red and White Faux Cotton Saree,1
+68007,BLR1430088,Blue and White Faux Cotton Saree,1
+68010,BLR1430091,Multicolor Faux Cotton Saree,1
+68014,BLR1430095,Multicolor Faux Cotton Saree,1
+68015,BLR1430096,Multicolor Faux Cotton Saree,1
+68016,BLR1430097,Multicolor Faux Cotton Saree,1
+68017,BLR1430098,Multicolor Faux Cotton Saree,1
+68018,BLR1430099,Off White and Blue Faux Cotton Saree,1
+68019,BLR1430100,Off White and Brown Faux Cotton Saree,1
+68020,BLR1430101,Orange and White Faux Cotton Saree,1
+68024,BLR1430206,Blue and White Faux Cotton Saree,1
+68036,BLR1430218,Blue and White Faux Cotton Saree,1
+68037,BLR1430219,White and Green Faux Cotton Saree,1
+68039,BLR1430221,Turquoise Blue Faux Cotton Saree,1
+68040,BLR1430222,Black Faux Cotton Saree,1
+68041,BLR1430223,Red Faux Cotton Saree,1
+68042,BLR1430224,Green and Maroon Faux Cotton Saree,1
+68043,BLR1430225,Black and Blue Faux Cotton Saree,1
+68044,BLR1430226,Blue and Black Faux Cotton Saree,1
+68045,BLR1430227,Maroon and Green Faux Cotton Saree,1
+68047,BLR1430229,Red and Gold Faux Cotton Saree,1
+68051,BLR1430233,Maroon Faux Cotton Saree,1
+68062,BLR1430244,Black Faux Cotton Saree,1
+68069,BLR1430251,Pink Faux Cotton Saree,1
+68070,BLR1430252,Yellow Faux Cotton Saree,1
+68071,BLR1430253,Green and Mustard Faux Cotton Saree,1
+68073,BLR1430255,Magenta Faux Cotton Saree,1
+68074,BLR1430256,Black and Blue Faux Cotton Saree,1
+68077,BLR1430259,Black and Purple Faux Cotton Saree,1
+68079,BLR1430261,Teal Blue and Mustard Faux Cotton Half and Half Saree,1
+68080,BLR1430262,Pink and Teal Blue Faux Cotton Half and Half Saree,1
+68081,BLR1430263,Teal Blue and Pink Faux Cotton Half and Half Saree,1
+68083,BLR1430265,Red and Black Faux Cotton Half and Half Saree,1
+68095,BLR1430161,Black and White Poly Cotton Saree,1
+68096,BLR1430162,White and Red Poly Cotton Saree,1
+68098,BLR1430164,White and Blue Poly Cotton Saree,1
+68099,BLR1430165,White and Brown Poly Cotton Saree,1
+68100,BLR1430166,Orange and Black Poly Cotton Saree,1
+68101,BLR1430167,Green and Black Poly Cotton Saree,1
+68102,BLR1430168,Blue and Black Poly Cotton Saree,1
+68103,BLR1430169,Purple and Black Poly Cotton Saree,1
+68105,BLR1430171,Black Poly Cotton Saree,1
+68107,BLR1430173,Maroon Poly Cotton Saree,1
+68108,BLR1430174,Mustard Yellow Poly Cotton Saree,1
+68109,BLR1430175,Purple Poly Cotton Saree,1
+68116,BLR1430182,White and Yellow Poly Cotton Saree,1
+68118,BLR1430184,White and Green Poly Cotton Saree,1
+68119,BLR1430185,White and Grey Poly Cotton Saree,1
+68122,BLR1430188,Turquoise and Beige Poly Cotton Saree,1
+68123,BLR1430189,Black and Beige Poly Cotton Saree,1
+68124,BLR1430190,Maroon and Beige Poly Cotton Saree,1
+68125,BLR1430191,Blue Poly Cotton Saree,1
+68126,BLR1430192,Pink Poly Cotton Saree,1
+68127,BLR1430193,Maroon Poly Cotton Saree,1
+68128,BLR1430194,Orange Poly Cotton Saree,1
+68129,BLR1430195,Blue Poly Cotton Saree,1
+68130,BLR1430196,Blue and Beige Poly Cotton Saree,1
+68131,BLR1430197,Red and Beige Poly Cotton Saree,1
+68132,BLR1430198,Black and Beige Poly Cotton Saree,1
+68133,BLR1430199,Green and Beige Poly Cotton Saree,1
+68134,BLR1430200,Maroon and Beige Poly Cotton Saree,1
+68135,BLR1430201,Pink Poly Cotton Saree,1
+68136,BLR1430202,Grey Poly Cotton Saree,1
+68137,BLR1430203,Blue Poly Cotton Saree,1
+68138,BLR1430204,Purple Poly Cotton Saree,1
+68139,BLR1430205,Beige Poly Cotton Saree,1
+68230,BLR1430271,Maroon and Beige Poly Cotton Saree,1
+68232,BLR1430273,Green and Beige Poly Cotton Saree,1
+68236,BLR1430277,Maroon Poly Cotton Saree,1
+68240,BLR1430281,Red and Blue Poly Cotton Saree,1
+68241,BLR1430282,Purple and Black Poly Cotton Saree,1
+68242,BLR1430283,Green and Purple Poly Cotton Saree,1
+68243,BLR1430284,Red Poly Cotton Saree,1
+68244,BLR1430285,Green Poly Cotton Saree,1
+68245,BLR1430286,Green Poly Cotton Saree,1
+68246,BLR1430287,Blue Poly Cotton Saree,1
+68247,BLR1430288,Mustard Yellow Poly Cotton Saree,1
+68248,BLR1430289,Multicolor Poly Cotton Saree,1
+68249,BLR1430290,Multicolor Poly Cotton Saree,1
+68250,BLR1430291,Multicolor Poly Cotton Saree,1
+68251,BLR1430292,Multicolor Poly Cotton Saree,1
+68253,BLR1430294,Beige and Red Poly Cotton Saree,1
+68272,BLR1430313,Black Cotton Saree,1
+68273,BLR1430314,Pista Green Cotton Saree,1
+68274,BLR1430315,Green Cotton Saree,1
+68276,BLR1430317,Magenta Cotton Saree,1
+68279,BLR1430320,Teal Blue Cotton Saree,1
+68289,BLR1430330,Beige and Purple Cotton Saree,1
+68292,BLR1430333,White and Pink Cotton Saree,1
+68389,BLR1430062,Blue and Purple Cotton Saree,1
+68500,MUM0010341,Red Chanderi Cotton Anarkali Churidaar,1
+68815,SRT0151741,Yellow and Orange Pure Viscose Georgette and Shantoon Straight Cut Kameez and Churidaar,1
+68822,SRT0151748,Magenta and Cream Pure Viscose Georgette and Shantoon Straight Cut Kameez and Churidaar,1
+69100,BLR1410018,Henna Green Cotton Saree,1
+69101,BLR1410019,Orange and Maroon Pure Silk Saree,1
+69102,BLR1410020,Maroon and Green Pure Mysore Silk Saree,1
+69103,BLR1410021,Peach Pure Silk Saree,1
+69104,BLR1410022,Light Orange Pure Silk Saree,1
+69105,BLR1410023,Blue Pure Silk Saree,1
+69106,BLR1410024,Teal Blue Pure Silk Saree,1
+69107,BLR1410025,Light Orange and Green Pure Silk Saree,1
+69108,BLR1410026,Green and Maroon Pure Silk Saree,1
+69109,BLR1410027,Pale Green and Red Pure Silk Saree,1
+69110,BLR1410028,Light Peach and Red Pure Silk Saree,1
+69111,BLR1410029,Green Cotton Saree,1
+69112,BLR1410030,Purple Cotton Saree,1
+69113,BLR1410031,Magenta Cotton Saree,1
+69114,BLR1410032,Blue Cotton Saree,1
+69115,BLR1410033,Green Cotton Saree,1
+69116,BLR1410034,Maroon Cotton Saree,1
+69117,BLR1410035,Purple Cotton Saree,1
+69118,BLR1410036,Blue and Magenta Pure Silk Saree,1
+69119,BLR1410037,Turquoise and Gold Pure Silk Saree,1
+69120,BLR1410038,Yellow Pure Silk Saree,1
+69121,BLR1410039,Black Pure Silk Saree,1
+69122,BLR1410040,Pink and White Pure Silk Saree,1
+69123,BLR1410041,Dark Magenta Pure Silk Saree,1
+69124,BLR1410042,Red and Black Pure Silk Saree,1
+69125,BLR1410043,Green Pure Silk Saree,1
+69126,BLR1410044,Green and Purple Pure Silk Half and Half Saree,1
+69127,BLR1410045,Rust and Green Pure Silk Half and Half Saree,1
+69128,BLR1410046,Blue Pure Silk Saree,1
+69129,BLR1410047,Blue and Green Pure Silk Saree,1
+69130,BLR1410048,Grey and Maroon Kanjeevaram inspired Pure Handloom Silk Saree,1
+69131,BLR1410049,Henna Green and Maroon Kanjeevaram inspired Pure Handloom Silk Saree,1
+69132,BLR1410050,Brown Kanjeevaram inspired Pure Handloom Silk Saree,1
+69133,BLR1410051,Multicolor Kanjeevaram inspired Pure Handloom Silk Saree,1
+69134,BLR1410052,Multicolor Kanjeevaram inspired Pure Handloom Silk Saree,1
+69135,BLR1410053,Multicolor Kanjeevaram inspired Pure Handloom Silk Saree,1
+69136,BLR1410054,Black and White Pure Silk Half and Half Saree,1
+69137,BLR1410055,Dark Pink and White Pure Silk Saree,1
+69138,BLR1410056,Aqua Blue Pure Silk Saree,1
+70265,VNS0510091,Peach Cotton Saree,1
+70266,VNS0510092,Cream Net Saree,1
+70267,VNS0510093,Blue Net Saree,1
+70268,MUM0640042,Black and White Cotton Straight Cut Kurta,1
+70269,MUM0640043,Black and White Cotton Straight Cut Kurta,1
+70270,MUM0640044,Multicolored Cotton Straight Cut Kurta,1
+70271,MUM0640045,Multicolored Cotton Straight Cut Kurta,1
+70273,MUM0640047,Off White Linen Straight Cut Kurta,1
+70274,MUM0640048,Black and White Cotton Straight Cut Kurta,1
+70275,MUM0640049,Pink Cotton Straight Cut Kurta,1
+70276,MUM0640050,Green Cotton Straight Cut Kurta,1
+70277,MUM0640051,Yellow Cotton Straight Cut Kurta,1
+70278,MUM0640052,White and Blue Cotton Straight Cut Kurta,1
+70279,MUM0640053,White and Pink Cotton Straight Cut Kurta,1
+70280,MUM0640054,White and Blue Cotton Straight Cut Kurta,1
+70281,MUM0640055,White and Green Cotton Straight Cut Kurta,1
+70282,MUM0640056,Black and Yellow Cotton Straight Cut Kurta,1
+70283,MUM0640057,Black and Blue Cotton Straight Cut Kurta,1
+70284,MUM0640058,Black and Green Cotton Straight Cut Kurta,1
+70285,MUM0640059,Pink Georgette Straight Cut Kurta,1
+70306,MUM0640080,Royal Blue Cotton Straight Cut Kurta,1
+70308,MUM0640082,White Cotton Straight Cut Kurta,1
+70309,MUM0640083,Yellow Cotton Straight Cut Kurta,1
+70310,MUM0640084,White Linen Straight Cut Kurta,1
+70311,MUM0640085,Orange Georgette A Line Kurta,1
+70312,MUM0640086,White and Green Georgette A Line Kurta,1
+70313,MUM0640087,Black Georgette A Line Kurta,1
+70314,MUM0230332,Dark Blue Cotton Straight Cut Short Kurti,1
+70315,MUM0230333,White and Multicolored Georgette A Line Kurta,1
+70316,MUM0230334,Beige and Black Georgette A Line Kurta,1
+70317,MUM0230335,White Cotton A Line Kurta,1
+70318,MUM0230336,Multicolored Cotton Straight Cut Kurta,1
+70319,MUM0230337,Light Pink Cotton A Line Kurti,1
+70320,MUM0230338,Blue Cotton Straight Cut Kurta,1
+70321,MUM0230339,White Cotton Straight Cut Kurti,1
+70322,MUM0230340,Yellow Cotton Straight Cut Kurta,1
+70323,MUM0230341,Off White and Pink Cotton Straight Cut Kurta,1
+70324,MUM0230342,Black Cotton Straight Cut Kurta,1
+70325,MUM0230343,Cream Cotton A Line Kurta,1
+70326,MUM0230344,Grey and Black Cotton Straight Cut Kurta,1
+70327,MUM0230345,Off White Cotton Straight Cut Kurta,1
+70328,MUM0230346,White Cotton Straight Cut Kurta,1
+70329,MUM0230347,Black and Hot Pink Georgette A Line Kurta,1
+70330,MUM0230348,Black Cotton Straight Cut Kurta,1
+70331,MUM0230349,Off White Cotton A Line Kurta,1
+70332,MUM0230350,Light Cream Cotton Straight Cut Kurta,1
+70333,MUM0230351,White and Green Cotton A Line Kurta,1
+70334,MUM0230352,White Cotton Straight Cut Kurta,1
+70335,MUM0230353,Cream and Brown Cotton Straight Cut Kurta,1
+70336,MUM0230354,Off White Cotton Straight Cut Kurti,1
+70337,MUM0230355,Peach Cotton A Line Kurta,1
+70338,MUM0230356,Off White and Black Georgette A Line Kurti,1
+70339,MUM0690029,Pink and Beige Cotton Straight Cut Kameez with Churidaar,1
+70340,MUM0690030,Royal Blue and Dark Pink Art Silk Straight Cut Kameez with Churidaar,1
+70341,MUM0690031,Cream and Pink Art Silk Straight Cut Kameez with Churidaar,1
+70342,MUM0690032,Cream and Rust Art Silk Straight Cut Kameez with Churidaar,1
+70343,MUM0690033,Gold and Blue Art Silk Straight Cut Kameez with Churidaar,1
+70344,MUM0690034,Gold and Pink Art silk Straight Cut Kameez with Churidaar,1
+70345,MUM0690035,Gold and Lime Green Art silk Straight Cut Kameez with Churidaar,1
+70346,MUM0690036,Peach and Beige Art Silk Straight Cut Kameez with Churidaar,1
+70347,MUM0690037,Pink and Off White Art Silk Straight Cut Kameez with Churidaar,1
+70348,MUM0690038,Orange and Blue Art Silk Straight Cut Kameez with Churidaar,1
+70349,MUM0690039,Green and Beige Art Silk Straight Cut Kameez with Churidaar,1
+70350,MUM0690040,Yellow and Red Art Silk Straight Cut Kameez with Churidaar,1
+70351,MUM0690041,Red and Gold Beige Art Silk Straight Cut Kameez with Churidaar,1
+70352,MUM0690042,Pink and Yellow Art Silk Straight Cut Kameez with Churidaar,1
+70353,MUM0690043,Pink and Black Art Silk Straight Cut Kameez with Churidaar,1
+70354,MUM0690044,Pink and Beige Art Silk Straight Cut Kameez with Churidaar,1
+70375,MUM0690001,White and Orange Georgette A-Line Kameez and Leggings,1
+70376,MUM0690002,Turquoise Green Georgette A-Line Kameez and Leggings,1
+70377,MUM0690003,Peach Georgette A-Line Kameez and Leggings,1
+70378,MUM0690004,Red Georgette A-Line Kameez and Leggings,1
+70379,MUM0690005,Dark Pink Georgette A-Line Kameez and Leggings,1
+70380,MUM0690006,White Cotton Anarkali and Palazzo,1
+70381,MUM0690007,White and Orange Cotton Anarkali and Leggings,1
+70382,MUM0690008,Light Gold Art Silk Anarkali and Leggings,1
+70383,MUM0690009,Sky Blue Georgette A-Line Kameez and Leggings,1
+70384,MUM0690010,White Georgette A-Line Kameez and Leggings,1
+70385,MUM0690011,Navy Blue Georgette A-Line Kameez and Churidaar,1
+70386,MUM0690012,Orange Georgette A-Line Kameez and Leggings,1
+70387,MUM0690013,Light Pink Cotton Straight Cut Kameez and Palazzo,1
+70388,MUM0690014,Peach Georgette A-Line Kameez and Leggings,1
+70389,MUM0690015,Navy Blue Georgette Straight Cut Kameez and Palazzo,1
+70390,MUM0690016,Baby Pink Georgette A-Line Kameez and Leggings,1
+70391,MUM0690017,Pink Satin A-Line Kameez and Leggings,1
+70392,MUM0690018,White Georgette A-Line Kameez and Leggings,1
+70393,MUM0690019,Orange Georgette A-Line Kameez and Leggings,1
+70394,MUM0690020,Light Yellow Cotton Straight Cut Kameez and Palazzo,1
+70395,MUM0690021,Peach Cotton Straight Cut Kameez and Palazzo,1
+70396,MUM0690022,Beige Silk Cotton Straight Cut Kameez and Leggings,1
+70397,MUM0690023,Sea Blue Cotton Straight Cut Kameez and Palazzo,1
+70398,MUM0690024,White Cotton Anarkali and Palazzo,1
+70399,MUM0690025,Orange Art Silk Straight Cut Kameez and Leggings,1

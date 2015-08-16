@@ -1,0 +1,12 @@
+Product:
+{product}
+Title:
+{title}
+Rating:
+{rw_rating}
+Review:
+{rw_content}
+
+The VioletBag Team
+care@violetbag.com
++91-80-65655500

@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Your order #{id_order} is shipped</title>
+</head>
+<body>
+	<table style="font-family:Verdana,sans-serif; font-size:12px; width: 550px;">
+		<tr>
+			<td align="left" style="padding: 0.5em 0em;font-family:Verdana,sans-serif; font-size:12px;">
+				Hi {firstname},
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="padding: 0.6em 0em;font-family:Verdana,sans-serif; font-size:12px;">
+				Your order #{id_order} has been shipped. Here are the shipment details:</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="font-family:Verdana,sans-serif; font-size:12px;">
+				<strong>Carrier: {carrier_name}</strong><br>
+				<strong>AWB No.: {tracking_number}</strong>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="font-family:Verdana,sans-serif; font-size:12px;">
+				You can track your shipment by <a href="{followup}">clicking here</a>.
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="font-family:Verdana,sans-serif; font-size:12px;">
+				Kindly note that it might take upto 24 hours for the shipment status to be updated.
+			</td>
+		</tr>
+	</table>
+	<br>
+	<span style="margin-bottom: 0cm;font-family:Verdana,sans-serif; font-size:12px;">The IndusDiva Team</span>
+	<br><span style="margin-bottom: 0cm;padding-top:5px;font-family:Verdana,sans-serif; font-size:12px;"><a href="mailto:care@indusdiva.com">care@indusdiva.com</a><br> +91-80-65655500</span>
+</body>
+</html>

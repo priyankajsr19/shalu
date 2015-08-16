@@ -1,0 +1,14 @@
+Hi {firstname},
+
+Thank you for shopping with IndusDiva. We hope you are pleased with the Order No. #{id_order} ({shop_url}{order_history_link}) which we delivered to you on {delivery_date}. As we strive to excel in our services, we would request you to share your feedback on your experience with us.
+
+Our small set of questions will not take more than a couple of minutes of your time but will be extremely helpful for us to work harder in our endeavor to delight our customers in all possible ways. 
+
+To give your feedback, please click here {shop_url}{feedback_form_link}?oid={id_order}
+
+Hope to see you again at IndusDiva!
+
+Regards,
+The IndusDiva Team
+care@indusdiva.com
++91-80-67309079

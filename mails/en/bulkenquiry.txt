@@ -1,0 +1,4 @@
+From: {customer_name}
+Phone: {phone}
+Country: {country}
+Enquiry: {enquiry}

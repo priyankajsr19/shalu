@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+#left_column{}
+#center_column{ width: 750px;}
+#right_column { width: 200px;}
+
+div.cart-detail{
+	width: 700px;
+}

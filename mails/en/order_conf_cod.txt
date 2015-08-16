@@ -1,0 +1,32 @@
+﻿Hello {firstname},
+Thank you for shopping with us. Your order {order_name} is confirmed. Here are the order details:
+
+	Order: {order_name} placed on {date}
+	Payment: {payment}
+
+	Products: {total_products}
+	Discounts: {total_discounts}
+	COD Charges: {total_cod}
+	Shipping: {total_shipping}
+	Total paid: {total_paid}
+
+
+Shipping
+
+	Carrier: {carrier}
+
+	Delivery address:
+
+	{delivery_block_txt}
+
+	Billing address:
+
+	{invoice_block_txt}
+
+Someone from our customer care team will call you within 2 business hours to verify the order. Once the verification is complete, the order will be delivered to you within 3-5 business days. Please keep an amount of {total_paid} ready at the time of delivery. 
+
+You can track your order online by clicking here({shop_url}order-history). 
+
+The IndusDiva Team
+care@violetbag.com
++91-80-65655500

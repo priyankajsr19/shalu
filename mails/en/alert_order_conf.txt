@@ -1,0 +1,26 @@
+﻿YAY! Violetbag received a new order. Details:
+
+	Order: {order_name} placed on {date}
+	Payment: {payment}
+
+	Products: {total_products}
+	Discounts: {total_discounts}
+	Shipping: {total_shipping}
+	Total paid: {total_paid}
+
+
+Shipping
+
+	Carrier: {carrier}
+
+	Delivery address:
+
+	{delivery_block_txt}
+
+	Billing address:
+
+	{invoice_block_txt}
+
+The VioletBag Team
+care@violetbag.com
++91-80-65655500

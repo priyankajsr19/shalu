@@ -1,0 +1,11 @@
+Hello {firstname},
+
+We are extremely glad you shopped with us. Please find in this email, your IndusDiva Cashback Voucher to shop for your favorite products from the finest Indian Ethnic Wear Collection online.
+
+Code : {code}
+Value : {value}
+
+This Gift Voucher can be redeemed by using the the voucher code at www.indusdiva.com. Please read the terms and conditions here http://www.indusdiva.com/content/28-upto-100-cashback-offer. If you have any questions, please ping us on live chat or send an email to care@indusdiva.com
+
+Regards,
+Indusdiva.com

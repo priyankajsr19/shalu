@@ -1,0 +1,19 @@
+Hi {firstname},
+
+You are our favorite! Thank you for shopping with IndusDiva. I hope you are pleased with the Order No. {id_order}(http://www.indusdiva.com/order-history) which we delivered to you on {order_date}.
+
+We started Indusdiva with the single objective to make finest Indian ethnic fashion accessible with highest standards of quality and workmanship. We constantly innovate in logistics, quality control and better ways to make your experience more delightful and fulfilling. As we strive to excel in our services, I would request you to share your feedback on your experience with us.
+
+Our small set of questions will not take more than a couple of minutes of your time but will be extremely helpful for us to work harder in our endeavor to delight you in all possible ways. 
+
+Hope to see you again at IndusDiva!
+
+Feedback Form
+
+Warm regards,
+
+Vineet Saxena
+CEO, IndusDiva.com
+
+care@indusdiva.com
++91-80-67309079

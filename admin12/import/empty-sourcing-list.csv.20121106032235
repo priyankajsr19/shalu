@@ -1,0 +1,882 @@
+id_product,reference,name,Wholesale_price
+1,BLR0010001,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+2,BLR0030001,Maroon Art Silk Saree with Kundan and Zardozi embroidery,2700
+3,BLR0030002,Mehendi Green Art Silk Paisley Saree ,2700
+4,BLR0030003,Bottle Green Art Silk Paisley Saree,2700
+5,BLR0030004,Blue Art Silk Paisley Saree,2700
+6,BLR0030005,Maroon Art Silk Saree with Kundan and Zardozi embroidery,3000
+7,BLR0030006,Blue Art Silk Saree with Kundan and Zardozi embroidery,3000
+8,BLR0030007,Magenta Art Silk Saree with Kundan and Zardozi embroidery,3000
+9,BLR0030008,Black Art Silk Saree with Kundan and Zardozi embroidery,3000
+10,BLR0030009,Blue Art Silk Saree with Kundan and Zardozi embroidery,2200
+11,BLR0030010,Dark Purple Art Silk Saree with Kundan and Zardozi embroidery,2200
+12,BLR0030011,Brown Art Silk Saree with Kundan and Zardozi embroidery,2200
+13,BLR0030012,Blue Green Art Silk Saree with Kundan and Zardozi embroidery,2200
+14,BLR0030013,Black and Maroon Striped Art Silk Saree with Temple Prints,670
+15,BLR0030014,Black and Orange Striped Art Silk Saree with Embroidery,720
+16,BLR0030015,Black and Rust Striped Art Silk Saree with Temple Design,670
+17,BLR0030016,Black Rust and Cream Striped Saree with Embroidery,720
+18,BLR0030017,Black and Golden Striped Art Silk Saree with Temple Design,670
+19,BLR0030018,Black and Royal Blue Striped Art Silk Saree with Temple Design,670
+20,BLR0030019,Black and Magenta Striped Art Silk Saree with Embroidery,720
+21,BLR0030020,Black Green and Cream Striped with Embroidery,720
+22,BLR0030021,Black and Brown Striped Art Silk Saree with Embroidery,720
+23,BLR0030022,Black and Powder Blue Stripes Saree with Embroidery,670
+24,BLR0030023,Peach Color Art Silk Saree with Floral Embroidery,740
+25,BLR0030024,Peach Color Art Silk Saree with Cut Work Border,790
+26,BLR0030025,Onion Pink Art Silk Paisley Saree,725
+27,BLR0030026,Blue Art Silk Saree with Floral Embroidery,740
+28,BLR0030027,Cream and Purple Art Silk Saree with Floral Embroidery,770
+29,BLR0030028,Peach and Purple Art Silk Saree with Floral Embroidery,770
+30,BLR0030029,Purple and Metallic Grey Art Silk Saree with Leaf Embroidery,770
+31,BLR0030030,Grey Art Silk Paisley Saree,770
+32,BLR0030031,Dark green and gold Art Silk Saree with Floral Embroidery,1470
+33,BLR0030032,Sky Blue Art Silk Paisley Saree,1470
+34,BLR0030033,Multicolored Art Silk Paisley Saree,2170
+35,BLR0030034,Multicolored Art Silk Paisley Saree,2170
+36,BLR0030035,Magenta Art Silk Saree with Floral Embroidery,1470
+37,BLR0030036,Multicolored Art Silk Paisley Saree,2170
+38,BLR0030037,Mustard Yellow Art Silk Paisley Saree,1470
+39,BLR0030038,Maroon Art Silk Saree with Floral Patterns,1470
+40,BLR0030039,Green Art Silk Saree with Floral Patterns,1470
+41,BLR0030040,Brown Art Silk Saree with Floral Embroidery,755
+42,BLR0030041,Peach Art Silk Paisley Saree,770
+43,BLR0030042,Peach Art Silk Saree with Floral Embroidery,755
+44,BLR0030043,Light Purple Art Silk Saree with Floral Embroidery,770
+45,BLR0030044,Mustard Yellow Art Silk Paisley Saree,1820
+46,BLR0030045,Blue Art Silk Paisley Saree,1420
+47,BLR0030046,Dark Brown Art Silk Paisley Saree,1420
+48,BLR0030047,Magenta Art Silk Saree with Buttas,1870
+49,BLR0030048,Blue Art Silk Paisley Saree,1870
+50,BLR0030050,Blue and Green Art Silk Paisley Saree,1870
+51,BLR0030049,Blue Art Silk Paisley Saree,2220
+52,BLR0030051,Bottle Green Art Silk Saree with Floral Embroidery,1250
+53,BLR0030052,Magenta and Gold Art Silk Paisley,2220
+54,BLR0030053,Dark Green Art Silk Paisley Saree,1820
+55,BLR0030054,Magenta Art Silk Bold Paisley Saree,1420
+56,BLR0030055,Maroon Red Art Silk Paisley Saree,2470
+57,BLR0030056,Maroon Art Silk Saree with Leaf Design,2220
+58,BLR0030057,Saffron Art Silk Saree with Floral Motif,1370
+59,BLR0030058,Blue Green Art Silk Saree with Floral Patterns,1250
+60,BLR0030059,Blue Art Silk Saree with Floral Patterns,1250
+61,BLR0030060,Bottle Green Art Silk Saree with Buttas,1870
+62,BLR0030061,Shining maroon Art Silk Saree with Floral Patterns,1250
+63,BLR0030062,Mustard Yellow Art Silk Saree with Floral design,1420
+64,BLR0030063,Magenta and Green striped Art Silk Paisley Saree,2470
+65,BLR0030064,Royal blue and pink striped Art Silk Paisley Saree,2470
+66,BLR0030065,Cream and Pink Art Silk Saree with Floral Embroidery,770
+67,BLR0030066,Skyblue and orange Art Silk Saree with Leaf Motif,755
+68,BLR0030067,Pista green and orange saree with Floral Motifs,755
+70,BLR0010003,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+71,BLR0010004,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+72,BLR0010005,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,395
+73,BLR0010006,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+74,BLR0010007,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+75,BLR0010008,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+76,BLR0010009,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+77,BLR0010010,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+78,BLR0010011,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+79,BLR0010012,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,525
+80,BLR0020001,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,420
+81,BLR0020002,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,420
+82,BLR0020003,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,420
+83,BLR0020004,Cream Kerala Handloom Cotton Kasavu Saree with Blouse,420
+84,BLR0030068,Sky Blue Art Silk Saree with Peacock Motif ,1340
+85,BLR0030069,Maroon and Green Paisley Art Silk Saree,1440
+86,BLR0030070,Purple and Gold Dhoop Chaon Art Silk Saree,1790
+87,BLR0030071,Blue and Purple Art Silk Saree with Patli Pallu,1790
+88,BLR0030072,Maroon Art Silk Buttas and Paisley Saree,1290
+89,BLR0030073,Maroon Art Silk Saree with Peacock Motif,1340
+90,BLR0030074,Military Green Art Silk Saree with Peacock Motif,1340
+91,BLR0030075,Blue Green Paisley Art Silk Saree,1290
+92,BLR0030076,Dark Purple Paisley Art Silk Saree,1290
+93,BLR0030077,Saffron Yellow Dhoop Chaon Art Silk Saree,1290
+94,BLR0040001,Sapphire Blue Metallic Faux Chiffon Saree,1175
+95,BLR0040002,Pink  Metallic Faux Chiffon Saree,975
+96,BLR0040003,Royal Blue Metallic Faux Chiffon Saree,975
+97,BLR0040004,Blue Metallic Faux Chiffon Saree,1175
+98,BLR0040005,Maroon Metallic Faux Chiffon Saree,975
+99,BLR0040006,Mehendi Green Metallic Faux Chiffon Saree,975
+100,BLR0040007,Aqua Blue Metallic Faux Chiffon Saree,975
+101,BLR0040008,Aqua Blue Metallic Faux Chiffon Saree,975
+102,BLR0040009,Maroon Metallic Faux Chiffon Saree,1175
+103,BLR0040010,Purple Chiffon Saree with Floral Prints,1100
+104,BLR0040011,Aqua Blue Chiffon Saree with Floral Prints,1100
+105,BLR0040012,Sky Blue Chiffon Saree with Floral Patterns,1175
+106,BLR0040013,Light Blue Metallic Faux Chiffon Saree,975
+107,BLR0040014,Purple Striped Metallic Faux Chiffon Saree,975
+108,BLR0040015,Purple Metallic Faux Chiffon Saree,975
+109,BLR0040016,Black Pure Chiffon Paisley Saree,1175
+110,BLR0040017,Purple Metallic Faux Chiffon Paisley Saree,1225
+111,BLR0040018,Sky Blue Printed Faux Crepe Paisley Saree,550
+112,BLR0040019,Yellow Printed Faux Crepe Paisley Saree,550
+113,BLR0040020,Mustard Yellow Metallic Faux Chiffon Saree ,1175
+114,BLR0040021,Maroon Metallic Faux Chiffon Saree with Leaf Motif,1025
+115,BLR0040022,Lime Yellow Metallic Faux Chiffon Saree,1175
+116,BLR0040023,Blue Metallic Faux Chiffon Saree,1175
+117,BLR0040024,Purple Metallic Faux Chiffon Paisley Saree,950
+118,BLR0040025,Purple Metallic Faux Chiffon Saree,1175
+119,BLR0040026,Maroon Striped Metallic Faux Chiffon Saree,1175
+120,BLR0040027,Jet Black Chiffon Saree with Floral Motif,1100
+121,BLR0040028,Mustard Yellow Chiffon Paisley Saree ,1175
+122,BLR0040029,Forest Green Metallic Faux Chiffon Saree,975
+140,BLR0060001,Silver Grey Striped Pure Silk Saree,2750
+141,BLR0060002,Mehendi Green Striped Pure Silk Saree,2750
+142,BLR0060003,Lavender and Blue Striped Pure Silk Saree,2750
+143,BLR0060004,Beige and Orange Striped Pure Silk Saree,2750
+144,BLR0060005,Beige and Mustard Yellow Striped Pure Silk Saree,2750
+145,BLR0060006,Sapphire and Electric Blue Striped Pure Silk Saree,2750
+146,BLR0060007,Beige and Blue Striped Pure Silk Saree,2750
+147,BLR0060008,Beige and Purple Striped Pure Silk Saree,2750
+148,BLR0060009,Beige and Blue Striped Pure Silk Saree,2750
+149,BLR0060010,Saffron Yellow Striped Pure Silk Saree,2750
+150,BLR0060011,Purple Striped Pure Silk Saree,2650
+151,BLR0060012,Deep Sea Green Striped Pure Silk Saree,2650
+152,BLR0060013,Blue Striped Pure Silk Saree,2650
+153,BLR0060014,Silver Grey Striped Handwoven Pure Silk Saree,2650
+154,BLR0060015,Saffron Yellow Striped Handwoven Pure Silk Saree,2650
+155,BLR0060016,Deep Red Striped Pure Silk Saree,2650
+156,BLR0060017,Off White Striped Pure Silk Saree,2650
+157,BLR0060018,Powder Blue Striped Pure Silk Saree,2650
+158,BLR0060019,Leaf Green Striped Pure Silk Saree,2650
+159,BLR0060020,Baby Pink Striped Pure Silk Saree,2650
+160,BLR0060021,Light Blue Striped Pure Silk Saree,2750
+161,BLR0060022,Beige Striped Pure Silk Saree,2650
+162,BLR0040030,Maroon metallic Faux Chiffon with Peacock Motif,1175
+163,BLR0040031,Pink Chiffon Saree with  Kundan Work,1175
+164,BLR0040032,Red Chiffon Saree with Kundan Work,1175
+165,BLR0040033,Dark Purple Chiffon Saree with Floral Patterns,1175
+166,BLR0040034,Cascade Green Metallic Faux Chiffon Saree,1175
+167,BLR0040035,White and Beige Chiffon Saree,1175
+168,BLR0040036,Dark Green metallic Faux Chiffon Saree,925
+169,BLR0040037,Purple Blue metallic Faux Chiffon Saree,925
+170,BLR0040038,Dark Green Paisley metallic Faux Chiffon Saree,1225
+171,BLR0040039,Red Faux Crepe Saree,550
+172,BLR0040040,Rust Faux Orange Crepe Saree,550
+173,BLR0040041,Red Wine Paisley Metallic Faux Chiffon Saree,1025
+174,BLR0040042,Rama green Metallic Faux Chiffon Saree,1175
+175,BLR0040043,Brown Maroon Metallic Faux Chiffon Saree,925
+176,BLR0040044,Dark Purple Metallic Faux Chiffon Saree,925
+177,BLR0040045,Purple Metallic Faux Chiffon Saree,1225
+178,BLR0040046,Sapphire Faux Crepe Saree,550
+179,BLR0040047,Mustard yellow Metallic Faux Chiffon Saree,1175
+180,BLR0040048,Maroon Paisley Metallic Faux Chiffon Saree,1225
+181,BLR0040049,Pastel Green Chiffon Saree,1175
+182,BLR0060023,Blue Handwoven Pure Silk Saree with Check Patterns,2650
+183,BLR0060024,Beige Handwoven Pure Silk Saree with Check Patterns,2650
+184,BLR0060025,Pink Handwoven Pure Silk Saree with Check Patterns,2650
+185,BLR0060026,Cream Handwoven Pure Silk Saree with Check Patterns,2650
+186,BLR0060027,Bright Yellow Handwoven Pure Silk Saree with Check Patterns,2650
+187,BLR0060028,Oaker Yellow Handwoven Pure Silk Saree with Check Patterns,2650
+188,BLR0060030,Rani Pink Handwoven Pure Silk Saree with Check Patterns,2650
+189,BLR00600231,Maroon Handwoven Pure Silk Saree with Check Patterns,2650
+190,BLR0060032,Powder Blue Handwoven Pure Silk Saree with Check Patterns,2650
+191,BLR0060033,Rani Pink Pure Silk Saree with Peacock Feather Embroidery,1950
+192,BLR0060035,Leaf Green Pure Silk Saree with Floral Motif,1950
+193,BLR0060036,Saffron Yellow Paper Silk Saree with Floral Patterns,1400
+194,BLR0060038,Saffron Yellow Paisley Paper Silk Saree,1400
+195,BLR0060039,Fig Pink Paisley Paper Silk Saree,1400
+196,BLR0060040,Cream Paisley Paper Silk Saree,1400
+197,BLR0060041,Saffron Yellow Tie and Dye Paper Silk Saree,1700
+198,BLR0060042,Rust Tie and Dye Paper Silk Saree,1700
+199,BLR0060043,Lime Green Paper Silk Saree with Printed Pallu,1400
+200,BLR0060044,Orange Dupion Silk sequined Saree,1800
+201,BLR0060045,Olive Green Paper Silk sequined Saree,1800
+202,BLR0060046,Magenta Paper Silk sequined Saree,1800
+203,BLR0060049,Magenta Paper Silk Saree with Motifs,1800
+204,BLR0060050,Maroon Paper Silk Saree with Motifs,1800
+205,BLR0060051,Dark Purple Gold Paisley Paper Silk Saree,1400
+206,BLR0060052,Orange Paper Silk Saree with Gold Emboss,1800
+207,BLR0060053,Peach Paper Silk Saree with Floral Design,1400
+208,BLR0060054,Maroon Gold Paisley Paper Silk Saree,1400
+209,BLR0060055,Maroon Paisley Paper Silk Saree,1600
+210,BLR0060057,Mustard Yellow Tie and Dye Paper Silk Saree,1600
+211,BLR0060058,Pink Paper Silk Saree with Spiral Prints,1700
+212,BLR0060059,Green Paisley Paper Silk Saree,1600
+213,BLR0060060,Sky Blue Paper Silk Saree with Traditiona Motif,1800
+214,BLR0060061,Peach Paper Silk Saree with Traditional Motif,1400
+215,BLR0060062,Purple Paper Silk Saree with Traditional Motif,1400
+216,BLR0060063,Henna green Paper Silk Saree with Traditional Motif,1400
+217,BLR0060064,Sky Blue Tie and Dye Pure Silk Saree,1800
+218,BLR0060065,Sky Blue Pure Silk Saree with Floral Patterns,1800
+219,BLR0060066,Beige Pure Silk Saree with Floral Motif,1950
+220,BLR0060067,Maroon Pure Silk Saree with Floral Motif,1950
+221,BLR0060068,Deep Red Pure Silk Saree with Peacock Feather Embroidery,1950
+222,BLR0060069,Mustard Yellow Pure Silk Saree with Peacock Feather Embroidery,1950
+223,BLR0060070,Sapphire Pure Silk Saree with Embroidery,1950
+224,BLR0060071,Brown Paper Silk Saree with Floral Motif,1400
+225,BLR0060072,Dark Navy Blue Tie and Dye Pure Silk Saree,1800
+226,BLR0060073,Dark Blue Pure Silk Saree with Peacock Feather Embroidery,1950
+227,BLR0060074,Multicolored Green Pure Silk Saree with 1000 Buttas,3000
+228,BLR0060075,Multicolored Deep Blue Pure Silk Saree with 1000 Buttas,3000
+229,BLR0060076,Multicolored Maroon Pure Silk Saree with 1000 Buttas,3000
+230,BLR0060077,Multicolored Dark Green Pure Silk Saree with 1000 Buttas,3000
+231,BLR0060078,Multicolored Saffron Pure Silk Saree with 1000 Buttas,3000
+232,BLR0060079,Multicolored Bright Green Pure Silk Saree with 1000 Buttas,3000
+233,BLR0060080,Multicolored Rani Pink Pure Silk Saree with 1000 Buttas,3000
+234,BLR0060081,Multicolored Onion Pink Pure Silk Saree with 1000 Buttas,3000
+235,BLR0060082,Fuchsia Pink Pure Silk Saree with 1000 Buttas,3000
+236,BLR0060083,Purple and Pink Pure Silk Saree with 1000 Buttas,2850
+237,BLR0060084,Mauve and Gold Pure Silk Saree with 1000 Buttas,2850
+238,BLR0060085,Green and Blue Pure Silk Saree with 1000 Buttas,2850
+239,BLR0060086,Peacock Blue Pure Silk Saree with 1000 Buttas,2850
+240,BLR0060087,Bright Orange Pure Silk Saree with 1000 Buttas,2850
+241,BLR0060088,Blue and Purple Pure Silk Saree with 1000 Buttas,2850
+242,BLR0060089,Green and Rust Pure Silk Saree with 1000 Buttas,2850
+243,BLR0060090,Onion Pink Pure Silk Saree with 1000 Buttas,2850
+244,BLR0060091,Royal Blue Pure Silk Saree with 1000 Buttas,2850
+245,BLR0060092,Olive Green Pure Silk Saree with Peacock Motif,2850
+246,BLR0060093,Maroon Pure Silk Saree with Peacock Motif,2850
+247,BLR0060094,Steel Grey Pure Silk Saree with Peacock Motif,2850
+248,BLR0060095,Deep Blue Pure Silk Saree with Peacock Motif,2850
+249,BLR0060096,Olive Green Paisley Pure Silk Saree,1750
+250,BLR0060097,Mauve and Blue Paisley Pure Silk Saree,1750
+251,BLR0060098,Bright Yellow Paisley Pure Silk Saree,1750
+252,BLR0060099,Purple and Pink Paisley Pure Silk Saree,1750
+253,BLR0060100,Rust Paisley Pure Silk Saree,3500
+254,BLR0060101,Multicolored Red Paisley Pure Silk Saree,3500
+255,BLR0060102,Multicolored Blue Paisley Pure Silk Saree,3500
+256,BLR0060103,Multicolored Red Paisley Pure Silk Saree,4500
+257,BLR0060104,Multicolored Pink Paisley Pure Silk Saree,3500
+258,BLR0060105,Multicolored Green Pure Silk Saree with Temple Motif,4500
+259,BLR0060106,Multicolored Magenta Pure Silk Saree with Temple Motif,4500
+260,BLR0060108,Multicolored Royal Blue Pure Silk Saree with Temple Motif,4500
+261,BLR0060109,Multicolored Purple Pure Silk Saree with Spiral Design,3300
+262,BLR0060110,Multicolored Green Pure Silk Saree with Spiral Design,3300
+263,BLR0060111,Multicolored Saffron Pure Silk Saree with Spiral Design,3300
+264,BLR0060112,Multicolored Orange Pure Silk Saree with Spiral Design,3500
+265,BLR0060113,Multicolored Green Paisley Pure Silk Saree,3500
+266,BLR0060114,Multicolored Mustard Paisley Pure Silk Saree,3500
+267,BLR0060123,Purple and Mustard Yellow Paisley Pure Silk Saree,1800
+268,BLR0060124,Green and Blue Paisley Pure Silk Saree,1800
+269,BLR0060125,Pista Green Paisley Pure Silk Saree,1500
+270,BLR0060126,Purple Paisley Pure Silk Saree,1500
+271,BLR0060127,Aqua Blue Paisley Pure Silk Saree,1500
+272,BLR0060128,Bright Yellow Paisley Pure Silk Saree,1500
+273,BLR0060129,Parrot Green Paisley Pure Silk Saree,1500
+274,BLR0060130,Electric Blue Paisley Pure Silk Saree,1500
+275,BLR0060131,Rani Pink Paisley Pure Silk Saree,1500
+276,BLR0060132,Rani Pink Patti Border Saree,1500
+277,BLR0060133,Deep Purple Paisley Pure Silk Saree,1500
+278,BLR0060134,Red Paisley Pure Silk Saree,1500
+279,BLR0060135,Chocolate Brown Paisley Pure Silk Saree,1500
+280,BLR0060136,Orange Paisley Pure Silk Saree,1500
+281,BLR0060137,Royal Blue Paisley Pure Silk Saree,1500
+282,BLR0060138,Sea Green Pure Silk Saree with Buttas,2150
+283,BLR0060139,Purple Maroon Jacquard Pure Silk Saree,2150
+284,BLR0060140,Light and Dark Blue Jacquard Pure Silk Saree,2150
+285,BLR0060141,Sky Blue Jacquard Pure Silk Saree,2150
+286,BLR0060142,Light and Dark Pink Jacquard Pure Silk Saree,2150
+287,BLR0060143,Light and Dark Purple Jacquard Pure Silk Saree,2150
+288,BLR0060144,Pista Green Jacquard Pure Silk Saree,2150
+289,BLR0060145,Blue and Purple Jacquard Pure Silk Saree,2150
+290,BLR0060146,Deep Purple Jacquard Pure Silk Saree,2150
+291,BLR0060147,Peacock Blue Jacquard Pure Silk Saree,2150
+292,BLR0060148,Pink Dual Tone Jacquard Pure Silk Saree,2150
+293,BLR0060149,Green Dual Tone Jacquard Pure Silk Saree,2150
+294,BLR0060150,Fig Pink Paisley Jacquard Pure Silk Saree,2150
+295,BLR0060151,Powder Blue Paisley Jacquard Pure Silk Saree,2150
+296,BLR0060152,Powder Blue Spiral Jacquard Pure Silk Saree,2150
+297,BLR0060153,Almond Brown Spiral Jacquard Pure Silk Saree,2150
+298,BLR0060154,Wine Red Jacquard Pure Silk Saree,2150
+299,BLR0060155,Pink and Beige Jacquard Pure Silk Saree,2150
+300,BLR0060156,Deep Red Jacquard Art Silk Saree,2150
+301,BLR0060157,Magenta Jacquard Art Silk Saree,2150
+302,BLR0030078,Magenta and Rust Jacquard Art Silk Saree,2150
+303,BLR0030079,Black Jacquard Pure Silk Saree,2150
+304,BLR0030080,Blue Green Jacquard Art Silk Saree,2150
+354,VNS0010001,Green Banarasi Art Silk Saree,850
+355,VNS0010002,Turquoise Banarasi Art Silk Saree,850
+356,VNS0010003,Purple Banarasi Art Silk Saree,525
+357,VNS0010004,Green and Purple Banarasi Art Silk Saree,525
+358,VNS0010005,Turquoise and Maroon Banarasi Art Silk Saree,525
+359,VNS0010006,Sea Green Banarasi Art Silk Saree,525
+360,VNS0010007,Dark Pink Banarasi Art Silk Saree,525
+361,VNS0010008,Violet Banarasi Art Silk Saree,525
+362,VNS0010009,Light Brown Banarasi Art Silk Saree,675
+363,VNS0010010,Light Brown Banarasi Art Silk Saree with Buttas,675
+364,VNS0010011,Orange Banarasi Art Silk Saree,675
+365,VNS0010012,Maroon Banarasi Art Silk Saree,575
+366,VNS0010013,Golden Banarasi Art Silk Saree,575
+367,VNS0010014,Dark Brown Banarasi Art Silk Saree,575
+368,VNS0010015,Light Brown Banarasi Art Silk Saree with Stonework,575
+369,VNS0010016,Blue and Maroon Banarasi Art Silk Saree,600
+370,VNS0010017,Rust Banarasi Art Silk Saree,600
+371,VNS0010018,Green Banarasti Art Silk Saree with Buttas,600
+372,VNS0010019,Maroon Banarasi Art Silk Saree with Buttas,600
+373,VNS0010020,Turquoise Banarasi Art Silk Saree with Buttas,950
+374,VNS0010021,Rust Banarasi Art Silk Saree with Buttas,950
+375,VNS0010022,Pink Banarasi Art Silk Saree,750
+376,VNS0010023,Turquoise Banarasi Art Silk Saree with Stonework,750
+377,VNS0010024,Turquoise Banarasi Art Silk Saree with Floral Motifs,750
+378,VNS0010025,Orange Banarasi Art Silk Saree with Buttas,750
+379,VNS0010026,Green Banarasi Art Silk Saree,850
+380,VNS0010027,Maroon Banarasi Art Silk Saree,850
+381,VNS0010028,Blue Banarasi Art Silk Saree,850
+382,VNS0010029,Maroon Banarasi Art Silk Saree,850
+383,VNS0010030,Red Banarasi Art Silk Saree,1600
+384,VNS0010031,Fuchsia Banarasi Art Silk Saree,1600
+385,VNS0010032,Violet Banarasi Art Silk Saree with Zari,1600
+386,VNS0010033,Mustard Banarasi Art Silk Saree,875
+387,VNS0010034,Violet and Light Brown Banarasi Art Silk Saree,875
+388,VNS0010035,Magenta Banarasi Art Silk Saree,875
+389,VNS0010036,Magenta Banarasi Art Silk Saree with Buttas,1050
+390,VNS0010037,Blue Banarasi Art Silk Saree with Buttas,1050
+391,VNS0010038,Turquoise Banarasi Art Silk Saree with Zari,1050
+392,VNS0010039,Maroon Banarasi Art Silk Saree with Zari,1050
+393,VNS0010040,Maroon Banarasi Art Silk Saree with Temple Design,1050
+394,VNS0010041,Rust Banarasi Art Silk Saree with Zari,1050
+395,VNS0010042,Purple Banarasi Art Silk Saree with Temple Design,1050
+396,VNS0010043,Turquoise Banarasi Art Silk Saree with Temple Design,1050
+397,VNS0010044,Brown Banarasi Art Silk Saree,800
+398,VNS0010045,Peach Banarasi Art Silk Saree,800
+399,VNS0010046,Green Banarasi Art Silk Saree with Buttas,800
+400,VNS0030001,Purple and Pink Banarasi Art Silk Saree with Buttas,1450
+401,VNS0030002,Purple and Turquoise Banarasi Art Silk Saree with Buttas,1450
+402,VNS0030003,Dark Maroon and Rust Banarasi Art Silk Saree with Buttas,1450
+403,VNS0030004,Dark Maroon and Green Banarasi Art Silk Saree with Buttas,1450
+404,VNS0030005,Dark Maroon and Rust Banarasi Art Silk Saree with Buttas,1250
+405,VNS0030006,Dark Maroon and Mustard Banarasi Art Silk Saree with Buttas,1250
+406,VNS0030007,Black and Green Banarasi Art Silk Saree with Buttas,1250
+407,VNS0030008,Blue Banarasi Art Silk Saree with Buttas,1250
+408,VNS0030009,Mustard Yellow Banarasi Art Silk Saree with Buttas,1250
+409,VNS0030010,Blue Banarasi Art Silk Saree with Buttas,1250
+410,VNS0030011,Purple and Green Banarasi Art Silk Saree with Buttas,1250
+411,VNS0030012,Tussar and Black Banarasi Art Silk Saree with Buttas,1250
+412,VNS0030013,Maroon and Black Banarasi Art Silk Saree with Buttas,1250
+413,VNS0030014,Dark Maroon and Tussar Banarasi Art Silk Saree with Buttas,1250
+414,VNS0030015,Dark Maroon and Green Banarasi Art Silk Saree with Buttas,1250
+415,VNS0030016,Turquoise Banarasi Art Silk Saree with Buttas,1250
+416,VNS0030017,Magenta Banarasi Art Silk Saree with Buttas,1250
+417,VNS0030018,Green Banarasi Art Silk Saree with Buttas,1250
+418,VNS0030019,Green Banarasi Art Silk Saree with Buttas,1250
+419,VNS0030020,Red Banarasi Art Silk Saree with Buttas,1250
+420,VNS0030021,Purple Banarasi Art Silk Saree with Buttas,1250
+421,VNS0030022,Pink Banarasi Art Silk Saree with Buttas,1250
+422,VNS0030023,Red Banarasi Art Silk Saree with Buttas,1250
+423,VNS0030024,Pink Banarasi Art Silk Saree with Buttas,1250
+424,VNS0030025,Rust Banarasi Art Silk Saree with Buttas,1250
+425,VNS0030026,Sky Blue Banarasi Art Silk Saree with Buttas,1250
+426,VNS0030027,Green and Tussar Banarasi Art Silk Saree with Buttas,1250
+427,VNS0030028,Maroon and Tussar Banarasi Art Silk Saree with Buttas,1250
+428,VNS0030029,Dark Maroon Banarasi Art Silk Saree with Buttas,1250
+429,BLR0030081,Blue Purple Dual Tone Art Silk Saree,1830
+430,BLR0030082,Maroon Dual Tone Art Silk Saree,1830
+431,BLR0030083,Blue Green Dual Tone Art Silk Saree,1830
+432,BLR0030084,Blue Purple Dual Tone Paisley Art Silk Saree,1830
+433,BLR0030085,Bottle Green Temple Design Art Silk Saree,1380
+434,BLR0030086,Deep Maroon Temple Design Art Silk Saree,1380
+435,BLR0030087,Royal Blue Temlple Design Art Silk Saree,1380
+436,BLR0030088,Bottle Green Art Silk Saree with Floral Motif,1730
+437,BLR0030090,Blue Purple Dual Tone Art Silk Saree with Peacocks,1730
+438,BLR0030091,Pink Purple Dual Tone Art Silk Saree with Peacocks,1730
+439,BLR0030092,Blue Green Dual Tone Paisley Art Silk Saree ,1650
+440,BLR0030093,Coffee Brown Green Paisley Art Silk Saree,1650
+441,BLR0030095,Multicolored Leaf Green Paisley Art Silk Saree,2330
+442,BLR0030096,Multicolored Olive Green Paisley Art Silk Saree,2330
+443,BLR0030094,Multicolored Blue Paisley Art Silk Saree,2330
+444,BLR0030097,Purple and Red Jacquard Art Silk Saree,2330
+445,BLR0030098,Bottle Green Jacquard Art Silk Saree,2330
+446,BLR0030099,Bright Blue Jacquard Art Silk Saree,2330
+447,BLR0030100,Wine Red Jacquard Art Silk Saree,2330
+448,BLR0030101,Maroon Green Dual Tone Art Silk Saree,1930
+449,BLR0030102,Purple Pink Jacquard Art Silk Saree,1930
+450,BLR0030103,Blue Green Jacquard Art Silk Saree,1930
+451,BLR0030104,Fig Pink Red Jacquard Art Silk Saree,1930
+452,BLR0030106,Electric Blue Jacquard Art Silk Saree,2000
+453,BLR0030105,Deep Maroon Jacquard Art Silk Saree,2000
+454,BLR0030109,Mustard Yellow Jacquard Art Silk Saree,2000
+455,BLR0030107,Bright Yellow Jacquard Art Silk Saree,2000
+456,BLR0030106,Bottle Green Paisley Jacquard Art Silk Saree,2000
+457,BLR0030113,Almond Brown Wave Design Art Silk Saree,2280
+458,BLR0030114,Wine Red Wave Design Art Silk Saree,2280
+459,BLR0030115,Sea Blue Wave Design Art Silk Saree,2280
+460,BLR0030116,Leaf Green Wave Design Art Silk Saree,2280
+461,BLR0030117,Pink Purple Patli Pallu Art Silk Saree,2280
+462,BLR0030118,Deep Maroon Patli Pallu Art Silk Saree,2280
+463,BLR0030119,Sea Blue Patli Pallu Art Silk Saree,2280
+464,BLR0030120,Bottle Green Pattlu Pallu Art Silk Saree,2280
+570,VNS0020047,Pink Pure Georgette Banarasi Saree,6200
+571,VNS0020048,Maroon Pure Georgette Banarasi Saree,6200
+572,VNS0020049,Tussar Brown Pure Georgette Banarasi Saree,6200
+573,VNS0020050,Dark Green Pure Georgette Banarasi Saree,5500
+574,VNS0020051,Maroon Pure Georgette Banarasi Saree,5900
+575,VNS0020052,Maroon Pure Georgette Banarasi Saree with Buttas,5500
+576,VNS0020053,Maroon Pure Georgette Banarasi Saree with Floral Motifs,7800
+577,VNS0020054,Purple and Magenta Pure Georgette Banarasi Saree,7200
+578,VNS0020055,Magenta and Green Pure Georgette Banarasi Saree,7800
+579,VNS0020056,Mustard Yellow and Magenta Pure Georgette Banarasi Saree,5500
+580,VNS0020057,Sky Blue Pure Georgette Banarasi Saree,8500
+581,VNS0020058,Magenta Pure Georgette Banarasi Saree,8500
+582,VNS0020059,Maroon Pure Georgette Banarasi Saree,8500
+583,VNS0020060,Pink Pure Georgette Banarasi Saree,8500
+584,VNS0020061,Maroon Pure Georgette Banarasi Saree,8500
+585,VNS0020062,Blue Pure Georgette Banarasi Saree,8500
+586,VNS0020063,Purple and Mustard Yellow Pure Georgette Banarasi Saree,8500
+587,VNS0020064,Magenta and Pink Pure Georgette Banarasi Saree,7800
+588,VNS0020065,Rust and Blue Pure Georgette Banarasi Saree,7800
+589,VNS0020066,Blue Pure Georgette Banarasi Saree,7800
+590,VNS0020067,Maroon Pure Georgette Banarasi Saree with Floral Buttas,8500
+591,VNS0020068,Pink Pure Georgette Banarasi Saree with Geometrical Buttas,8500
+592,VNS0020069,Maroon Pure Georgette Banarasi Saree with Buttas and Motifs,8500
+593,VNS0020070,Brown and Mustard Yellow Pure Georgette Banarasi Saree,9800
+594,VNS0020071,Multicolored Peach Pure Georgette Banarasi Saree,8200
+595,VNS0020072,Multicolored Sea Green Pure Georgette Banarasi Saree,8200
+596,VNS0020073,Mustard Yellow and Pink Pure Georgette Banarasi Saree,8200
+597,VNS0020074,Mustard Yellow and Purple Pure Georgette Banarasi Saree,8200
+598,VNS0020075,Magenta Pure Georgette Banarasi Saree with Zari Buttas,8200
+599,VNS0020076,Purple Pure Georgette Banarasi Saree with Zari Buttas,7800
+600,SRT0020001,Yellow and Pink Faux Georgette Salwar Kameez,2375
+601,SRT0020002,Grey Faux Georgette Salwar Kameez with zari,2115
+602,SRT0020003,Red Faux Georgette Salwar Kameez,2135
+603,SRT0020004,Black and Green Faux Georgette Salwar Kameez,2335
+604,SRT0020005,Cream Faux Georgette Salwar Kameez,2420
+605,SRT0020006,Purple Faux Georgette Salwar Kameez,2525
+606,SRT0020007,Yellow  Blended Silk Salwar Kameez,2105
+607,SRT0020008,Beige Faux Georgette Salwar Kameez,2495
+608,SRT0020009,Pink Faux Georgette Salwar Kameez,2535
+609,SRT0020010,Cream Applique Faux Georgette Salwar Kameez,2545
+610,SRT0020011,Yellow Faux Georgette Salwar Kameez with Resham,2260
+611,SRT0020012,Mauve Faux Georgette Salwar Kameez,2975
+612,SRT0020013,Grey Polka Dotted Faux Georgette Salwar Kameez,2565
+613,SRT0020014,Red Faux Georgette Salwar Kameez with Foliage Motif,2455
+614,SRT0020015,Green Faux Georgette Salwar Kameez with Resham,1985
+615,SRT0020016,Off White Faux Georgette Salwar Kameez,2775
+616,SRT0020017,Multicolor Faux Georgette Salwar Kameez,2705
+617,SRT0020018,Purple Faux Georgette Salwar Kameez,1690
+618,SRT0020019,Black Faux Georgette Salwar Kameez,2335
+619,SRT0020020,Off White Faux Georgette Salwar Kameez,1875
+1224,BLR0080043,Deep Maroon and Orange Pure Silk Saree,4300
+721,BLR0020005,Magenta Pure Crepe Silk Mysore Saree,2330
+722,BLR0020006,Deep Red Pure Crepe Silk Mysore Saree,2330
+723,BLR0020007,Peacock Green Pure Crepe Silk Mysore Saree,2330
+724,BLR0020008,Maroon Pure Crepe Silk Mysore Saree,2590
+725,BLR0020009,Peacock Green Paisley Pure Crepe Silk Mysore Saree,2590
+726,BLR0020010,Maroon Striped Pure Crepe Silk Mysore Saree,3500
+727,BLR0020011,Royal Purple Pure Crepe Silk Mysore Saree,3500
+728,BLR0020012,Light Brown Pure Crepe Silk Mysore Saree,3630
+729,BLR0020013,Magenta Striped Pure Crepe Silk Mysore Saree,3630
+730,BLR0020014,Mustard Yellow Pure Crepe Silk Mysore Saree,3630
+731,BLR0020015,Peacock Blue Pure Crepe Silk Mysore Saree,3630
+732,BLR0020016,Peacock Green Pure Crepe Silk Mysore Saree with Buttas,3600
+733,BLR0020017,Light Brown Pure Crepe Silk Mysore Saree with Buttas,3650
+734,BLR0020018,Bottle Green Pure Crepe Silk Mysore Saree,3650
+735,BLR0020019,Purple Pure Crepe Silk Mysore Saree,3630
+736,BLR0020020,Fig Pink Pure Crepe Silk Mysore Saree,3050
+737,BLR0020021,Brick Red Pure Crepe Silk Mysore Saree,3050
+738,BLR0020022,Peacock Green Pure Crepe Silk Mysore Saree,3050
+739,BLR0020023,Maroon Pure Crepe Silk Mysore Saree with Buttas,3050
+740,BLR0020024,Peacock Blue Pure Crepe Silk Mysore Saree with Buttas,3570
+741,BLR0020025,Olive Green Pure Crepe Silk Mysore Saree,3570
+742,BLR0020026,Light Brown Paisley Pure Crepe Silk Mysore Sare,3570
+743,BLR0020027,Deep Wine Pure Crepe Silk Mysore Saree,3570
+744,BLR0020028,Peacock Blue Pure Crepe Silk Mysore Saree,2350
+745,BLR0020029,Olive Green Pure Crepe Silk Mysore Saree with Buttas,2350
+746,BLR0020030,Deep Orange Pure Crepe Silk Mysore Saree,3250
+747,BLR0020031,Aqua Blue Pure Crepe Silk Mysore Saree,2350
+748,BLR0020032,Coffee Brown Pure Crepe Silk Mysore Saree,3250
+749,BLR0020033,Coffee Brown Jacquard Pure Crepe Silk Mysore Saree,2350
+795,BLR0070001,Light Cream Faux Georgette Salwar Kameez,5065
+796,BLR0070002,Sea Green Net Anarkali Salwar Kameez,4731
+797,BLR0070003,Red Tussar Georgette Salwar Kameez,4338
+798,BLR0070004,Red Faux Georgette Salwar Kameez,4200
+799,BLR0070005,Off White Faux Georgette Salwar Kameez,4604
+800,BLR0070006,Black Tussar Georgette Anarkali Salwar Kameez,3981
+801,BLR0070007,Yellow and Brown Net Salwar Kameez,4650
+802,BLR0070008,Pale Green Net Salwar Kameez,4558
+803,BLR0070009,Navy Blue Net Salwar Kameez,4396
+804,BLR0070010,Cream and Green Net Salwar Kameez,4188
+805,BLR0070011,White and Red Net Salwar Kameez,4754
+806,BLR0070012,Yellow and Blue Net Salwar Kameez,4962
+807,BLR0070013,Pink Anarkali Net Salwar Kameez,4650
+808,BLR0070014,Beige Net Anarkali Salwar Kameez,4788
+809,BLR0070015,Light Pink Net Salwar Kameez,4500
+810,BLR0070016,Leaf Green Net Salwar Kameez,3992
+811,BLR0070017,Pink Net Salwar Kameez,3162
+812,BLR0070018,Pink and Purple Net Salwar Kameez,4800
+813,BLR0070019,Multicolor Faux Crepe A Line Salwar Kameez,1765
+814,BLR0070020,Multicolor Faux Crepe Straight Cut Salwar Kameez,1581
+815,BLR0070021,Multicolor Faux Crepe Straight Cut Salwar Kameez,1708
+816,BLR0070022,Pink Faux Crepe A Line Salwar Kameez,2827
+817,BLR0070023,Maroon Faux Crepe Salwar Kameez,1685
+818,BLR0070024,Purple Faux Crepe Salwar Kameez,1823
+819,BLR0070025,Blue Faux Crepe Salwar Kameez,1569
+820,BLR0070026,Fuchsia Pink Viscose Georgette Salwar Kameez,2400
+821,BLR0070027,Yellow Faux Crepe Salwar Kameez,1742
+822,BLR0070028,Black Faux Crepe Salwar Kameez,3231
+823,BLR0070029,Beige Faux Crepe Salwar Kameez,2446
+824,BLR0070030,Black Faux Crepe Straight Cut Salwar Kameez,1996
+825,BLR0070031,Teal Green Faux Crepe Salwar Kameez,2515
+826,BLR0070032,Green Faux Georgette Salwar Kameez,1823
+827,BLR0070033,Yellow and Red Faux Crepe Salwar Kameez,1569
+828,BLR0070034,Turquoise Blue Faux Crepe Salwar Kameez,2954
+829,BLR0070035,Emerald Green Crepe Jacquard Salwar Kameez,1962
+830,BLR0070036,Maroon Crepe Jacquard Salwar Kameez,2042
+831,BLR0070037,Yellow Faux Crepe A Line Salwar Kameez,4338
+832,BLR0070038,Green Crepe Jacquard Salwar Kameez,3773
+833,BLR0070039,Green and Blue Faux Crepe Salwar Kameez,1719
+834,BLR0070040,Blue Crepe Jacquard Salwar Kameez,1719
+835,BLR0070041,Multiclor Faux Crepe Salwar Kameez,1615
+836,BLR0070042,Blue Faux Crepe Straight Cut Salwar Kameez,1581
+837,BLR0070043,Brown Faux Crepe Salwar Kameez,1569
+838,BLR0070044,Blue Faux Crepe Salwar Kameez,3346
+839,VNS0050001,Purple Pure Chiffon Banarasi Saree,2395
+840,VNS0050002,Green Pure Chiffon Banarasi Saree,2395
+841,VNS0050003,Maroon Pure Chiffon Banarasi Saree,2395
+842,VNS0050004,Mustard Yellow Pure Chiffon Banarasi Saree,2395
+843,VNS0050005,Tussar Brown Pure Silk Banarasi Saree,1850
+844,VNS0050006,Turquoise Pure Silk Banarasi Saree,1850
+845,VNS0050007,Orange Pure Silk Banarasi Saree,1850
+846,VNS0050008,Dark Pink Pure Silk Banarasi Saree,1850
+847,VNS0050009,Turquoise Paisley Pure Silk Banarasi Saree,1850
+848,VNS0050010,Tussar Brown Paisley Pure Silk Banarasi Saree,1850
+849,VNS0050011,Orange Paisley Pure Silk Banarasi Saree,1850
+850,VNS0050012,Pink Pure Silk Banarasi Saree,1850
+851,VNS0050013,Turquoise Paisley Pure Silk Banarasi Saree,1850
+852,VNS0050014,Mustard Yellow Pure Silk Banarasi Saree,1850
+853,VNS0050015,Light Green Pure Silk Banarasi Saree,1850
+854,VNS0050016,Turquoise Paisley Pure Silk Banarasi Saree,1850
+855,VNS0050017,Yellow Pure Silk Banarasi Saree,1850
+856,VNS0050018,Light Green Paisley Pure Silk Banarasi Saree,1850
+857,VNS0050019,Dark Pink Paisley Pure Silk Banarasi Saree,1850
+858,VNS0050020,Turquoise Pure Silk Banarasi Saree with Buttas,1850
+859,VNS0050021,Pink Pure Silk Banarasi Saree with Wave Motifs,1850
+860,VNS0050022,Mustard Yellow Pure Silk Banarasi Saree with Wave Motifs,1850
+861,VNS0050023,Dark Pink Pure Silk Banarasi Saree with Wave Motifs,1850
+862,VNS0010047,Light Brown Banarasi Art Silk Saree with Leaf Motifs,2200
+863,VNS0010048,Orange Banarasi Art Silk Saree with Buttas,2200
+864,VNS0010049,Light Green Paisley Banarasi Art Silk Saree ,2200
+865,VNS0010050,Brown Banarasi Art Silk Saree with Buttas,2200
+866,VNS0010051,Sea Green Banarasi Art Silk Saree with Buttas,2200
+867,VNS0010052,Rust Banarasi Art Silk Saree with Buttas,2200
+868,VNS0010053,Rust Paisley Banarasi Art Silk Saree,2200
+869,VNS0010054,Cream Paisley Banarasi Art Silk Saree,4000
+870,VNS0010055,Royal Blue Banarasi Art Silk Saree,4000
+871,VNS0010056,Light Blue Banarasi Art Silk Saree,1900
+872,VNS0010057,Sky Blue Banarasi Art Silk Saree with Mirrorwork,2300
+873,VNS0010058,Turquoise Banarasi Art Silk Saree,2300
+874,VNS0010059,Turquoise Banarasi Art Silk Saree with Buttas,2300
+875,VNS0010060,Light Green Banarasi Art Silk Saree with Stripes,2300
+876,VNS0010061,Turquoise Banarasi Art Silk Saree with Floral Buttas,1800
+877,VNS0010062,Light Turquoise Banarasi Art Silk Saree,1800
+878,VNS0010063,Violet Banarasi Art Silk Saree,2300
+879,VNS0010064,Royal Blue Paisley Banarasi Art Silk Saree,2400
+880,VNS0010065,Peach Banarasi Silk Saree with Buttas,2400
+881,VNS0010066,Brown Banarasi Art Silk Saree with Leaf Motifs,2000
+882,VNS0010067,Purple and Mustard Paisley Banarasi Art Silk Saree,3000
+883,VNS0010068,Tussar Brown Banarasi Art Silk Saree,3200
+884,VNS0010069,Green Banarasi Art Silk Saree,2000
+885,VNS0010070,Green Banarasi Art Silk Saree with Stonework,2000
+886,VNS0010071,Maroon Banarasi Art Silk Saree with Buttas,2000
+887,VNS0010072,Dark Pink Banarasi Art Silk Saree,1500
+888,VNS0010073,Maroon Banarasi Art Silk Saree with Resham,1500
+889,VNS0010074,Royal Blue Banarasi Art Silk Saree with Resham,3000
+890,VNS0010075,Cream Banarasi Art Silk Saree,1800
+891,VNS0010076,Light Green Banarasi Art Silk Saree with Buttas,1800
+892,VNS0010077,Brown and Cream Banarasi Art Silk Saree with Stonework,2000
+893,VNS0010078,Peach Banarasi Silk Saree,2000
+894,VNS0010079,Sea Green Banarasi Art Silk Saree ,2000
+895,VNS0010080,Brown Banarasi Art Silk Saree,1600
+896,VNS0010081,Peach Banarasi Art Silk Saree with Geometrics,1600
+897,VNS0010082,Pink Banarasi Art Silk Saree with Buttas,2200
+898,VNS0010083,Brown Banarasi Art Silk Saree with Flowers,2500
+899,VNS0010084,Pink Banarasi Art Silk Saree with Floral Pattern,2000
+900,VNS0010085,Pink and Mustard Banarasi Art Silk Saree,2000
+901,VNS0010086,Magenta and Brown Banarasi Art Silk Saree,2000
+902,VNS0010087,Multicolor Banarasi Art Silk Saree,2400
+903,VNS0010088,Multicolor Zigzag Banarasi Art Silk Saree,2400
+904,VNS0010089,Violet and Mustard Banarasi Art Silk Saree,2400
+905,VNS0010090,Multicolor Banarasi Art Silk Saree with Wave Motif,1900
+906,VNS0010091,Multicolor Paisley Banarasi Art Silk Saree,1500
+907,SRT0030001,Violet Pure Viscose Georgette Party Saree,2775
+908,SRT0030002,Teal Green Half Net and Viscose Party Saree,3315
+909,SRT0030004,Green Net Party Saree,2215
+910,SRT0030005,Seal Blue Half Net and Viscose Party Saree,3875
+911,SRT0030006,Violet Half Net and Viscose Party Saree,3875
+912,SRT0030007,Orange Half Net and Viscose Party Saree,3425
+913,SRT0030011,Violet Net Party Saree,4425
+914,SRT0030012,Pink Net Party Saree,4425
+915,SRT0030013,Sea Green Net Party Saree,2855
+916,SRT0030014,Purple Net Party Saree,2855
+917,SRT0030016,Purple Viscose and Net Party Saree,3795
+918,SRT0030017,Green and Blue Viscose Net Party Saree,2455
+919,SRT0030021,Wine Net Party Saree,1955
+920,SRT0030022,Sea Blue Net Party Saree,1955
+921,SRT0030024,Black Net and Viscose Party Saree,2655
+2308,NAVRATRI8,Navratri Classy Glam Collection- Set of Nine Sarees,
+922,BLR0060158,Magenta and Green Dupion Saree,2000
+923,BLR0060159,Dark Green and Red Dupion Saree,2000
+924,BLR0060160,Orange and Leaf Green Dupion Saree,2000
+925,BLR0060161,Ink Blue and Red Dupion Saree,2000
+926,BLR0060162,Pooja Red Gold Art Silk Saree,2000
+927,BLR0060163,Dark Green and Red Gold Dupion Saree,2000
+928,BLR0060164,Peacock Blue Gold Dupion Saree,2000
+929,BLR0060165,Deep Purple Gold Dupion Saree,2000
+930,BLR0060166,Ink Blue Gold Dupion Saree,2000
+931,BLR0060167,Orange and Gold Dupion Saree,2000
+932,BLR0060168,Rust and Gold Dupion Saree,2000
+933,BLR0060169,Leaf Green and Gold Dupion Saree,2000
+934,BLR0060170,Pink and Green Gold Pure Silk Saree,4750
+935,BLR0060171,Peach and Maroon Pure Silk Saree,4750
+936,BLR0060172,Magenta and Royal Blue Pure Silk Saree,4750
+937,BLR0060173,Cream and Orange Pure Silk Saree,3800
+938,BLR0060174,Black and Orange Pure Silk Saree,3800
+939,BLR0060175,Rust and Orange Pure Silk Saree,3800
+940,BLR0060176,Maroon and Cream Pure Silk Saree,3950
+941,BLR0060177,Henna Green and Cream Pure Silk Saree,3950
+942,BLR0060178,Peach and Purple Pure Silk Saree,4500
+943,BLR0060179,Off White Pure Silk Saree,4750
+944,BLR0060180,Parrot Green Pure Silk Saree,3600
+945,BLR0060181,Yellow and Green Pure Silk Saree,3600
+946,BLR0060182,Green and Magenta Pure Silk Saree,3600
+947,BLR0060183,Magenta and Orange Pure Silk Saree,8500
+948,BLR0060184,Black Pure Silk Saree,8200
+949,BLR0060185,Saffron Yellow Pure Silk Saree,4900
+950,BLR0060186,Lime Green Pure Silk Saree,7900
+951,BLR0060187,Sky Blue Pure Silk Saree,7200
+952,BLR0060188,Peacock Blue Pure Silk Saree,3600
+953,BLR0060189,Electric Blue Pure Silk Saree,6300
+954,BLR0060190,Deep Maroon Pure Silk Saree,4750
+955,BLR0060191,Peacock Green Pure Silk Saree,4900
+956,BLR0060192,Mustard Yellow Pure Silk Saree,7900
+957,BLR0060193,Onion Pink Pure Silk Saree,6500
+958,BLR0060194,Bright Orange Pure Silk Saree,6900
+959,BLR0060195,Lavender and Gold Pure Silk Saree,7700
+960,BLR0060196,Lilac Purple Pure Silk Saree,6800
+961,BLR0090001,Peacock Green Faux Georgette Saree,1260
+962,BLR0090002,Mud Brown Faux Georgette Saree,1260
+963,BLR0090003,Grey Blue Faux Georgette Saree,1260
+964,BLR0090004,Deep Carrot Pink Faux Georgette Saree,1260
+965,BLR0090005,Olive Green Faux Georgette Saree,1260
+966,BLR0090006,Peacock Green Gold Faux Georgette Saree,1260
+967,BLR0090007,Maroon and Gold Faux Georgette,1260
+968,BLR0090008,Deep Purple Gold Faux Georgette Saree,1260
+969,BLR0090009,Brown Faux Georgette Saree,945
+970,BLR0090010,Multicolored Blue Faux Georgette Saree,945
+971,BLR0090011,Rust Yellow Faux Georgette Saree,945
+972,BLR0090012,Ochre Yellow Faux Georgette Saree,945
+973,BLR0060197,Cream and Blue Pure Silk Bridal Saree,7900
+974,BLR0060198,Maroon Pure Silk Bridal Saree,9900
+975,BLR0060199,Peacock Blue Pure Silk Bridal Saree,9000
+976,BLR0060200,Maroon Paisley Pure Silk Bridal Saree,9900
+977,BLR0060201,Fig Pink Pure Silk Bridal Saree,8800
+978,BLR0060202,Magenta Pure Silk Bridal Saree,9900
+979,BLR0060203,Maroon Brocade Pure Silk Bridal Saree,18000
+980,BLR0060204,Peacock Blue Brocade Pure Silk Bridal Saree,18000
+981,BLR0060205,Lime Yellow Pure Silk Bridal Saree,9900
+1008,SRT0030025,Blue and Purple Net Viscose Party Saree,2545
+1009,SRT0030026,Yellow and Blue Crepe Viscose Party Saree,2415
+1010,SRT0030027,Maroon Viscose Crepe Party Saree,3015
+1011,SRT0030028,Peacock Blue Tissue and Net Party Saree,2595
+1012,SRT0030029,Yellow and Red Crepe Viscose Party Saree,2555
+1013,SRT0030030,Turquoise Blue Net Viscose Party Saree,3055
+1014,SRT0030031,Pink and Black Net Party Saree,3215
+1015,SRT0030032,Cream Viscose Party Saree,3455
+1016,SRT0030033,Fuchsia Pink Shimmer and Viscose Party Saree,2895
+1017,SRT0030034,Blue and Green Viscose Party Saree,3455
+1018,SRT0030035,Blue Shaded Viscose Party Saree,2795
+1019,SRT0030036,Blue Georgette and Viscose Party Saree,2415
+1020,SRT0030037,Brown and Green Net Viscose Party Saree,2545
+1021,SRT0030038,Turquoise Blue Jacquard Party Saree,2555
+1022,SRT0030039,Black and Purple Viscose Party Saree,3325
+1023,SRT0030040,Purple and Pink Viscose Party Saree,2795
+1024,SRT0030041,Pink Shimmer and Viscose Party Saree,3025
+1025,SRT0030042,Yellow and Red Georgette Viscose Party Saree ,3155
+1026,SRT0030043,Maroon Georgette Viscose Party Saree,3155
+1027,SRT0030044,Maroon and Green Net Viscose Party Saree,3055
+1028,SRT0030045,Maroon Net Viscose Party Saree,3530
+1029,SRT0050001,Green Net Saree with Sequins,2195
+1030,SRT0050002,White Net Saree with Sequins,2955
+1031,SRT0050003,Light Green Net Saree with Sequins,2115
+1032,SRT0050004,Turquoise Blue Net Saree with Sequins,2065
+1033,SRT0050005,Peach Pink Net Brocade Saree,2795
+1034,SRT0050006,Olive Net Saree with Patch Patti,2765
+1035,SRT0050007,Peach Pink Net Brocade Saree,1545
+1036,SRT0050008,Peach  Maroon Net Saree with Sequins,1965
+1037,SRT0050009,Maroon Net Saree with Sequins,2835
+1038,SRT0050010,Red Orange and Black Net Lehenga Saree,3695
+1039,SRT0050011,White Net Saree with Resham,2855
+1040,SRT0050012,Aqua Blue Net Saree with Sequins,2825
+1041,SRT0050013,Black Net Saree with Parsi Border,2145
+1042,SRT0050014,Cream Net Saree with Patch Patti,3055
+1043,SRT0050015,Red Net Saree with Sequins,2495
+1044,SRT0050016,Pink Net Saree with Sequins,1855
+1045,SRT0050017,White and Blue Net Saree with Sequins,3675
+1046,SRT0050018,Sky Blue Net Brocade Saree ,2895
+1047,SRT0050019,Dark Pink Net Saree with Sequins,2315
+1048,SRT0050020,Olive Green Faux Georgette Lehenga Saree,3995
+1049,MUM0020001,Red Net Sequinned Saree,4205
+1050,MUM0020003,Red Faux Crepe Jacquard Lehenga Saree,5075
+1051,MUM0020004,Green Faux Crepe Jacquard Lehenga Saree,4785
+1052,MUM0020005,Purple Net Saree with Stonework,5365
+1053,MUM0020006,Peacock Blue Faux Crepe Jacquard Saree with Stonework,5910
+1054,MUM0020007,Blue and Magenta Faux Crepe Jacquard Saree,4640
+1055,MUM0020010,Turquoise Blue Net Lehenga Saree,12615
+1056,MUM0020011,Magenta Faux Chiffon Jacquard Saree,5510
+1057,MUM0020012,Sea Green Net Saree with Buttas,6670
+1058,MUM0020013,Pink Net Saree with Stonework,5360
+1059,MUM0020014,Purple and Blue Jacquard Faux Crepe Lehenga Saree,4640
+1060,MUM0020015,Pink Net Saree with Stonework,4350
+1061,MUM0020017,Pink and Blue Net Lehenga Saree,5800
+1062,MUM0020018,Teal Green Net Saree with Stonework,4930
+1063,MUM0020019,Green Faux Crepe Jacquard Lehenga Saree with Buttis,4060
+1064,MUM0020020,Purple Net Saree with Sequins,4860
+1065,MUM0020021,Turquoise Blue Net Saree with Crystals,5290
+1066,MUM0020022,Turquoise Blue Net Saree with Stonework,6670
+1067,MUM0020023,Violet Faux Crepe Jacquard Saree with Stonework,7325
+1068,MUM0020025,Purple Faux Crepe Jacquard Saree,4930
+1069,MUM0020026,Royal Blue Faux Chiffon Jacquard Saree,7540
+1070,MUM0020028,Red Net Lehenga Saree,12035
+1089,SRT0050021,Cream Super Net Party Saree,3255
+1090,SRT0050023,Black Net Party Saree,3055
+1091,SRT0050024,Blue Net Party Saree,2295
+1092,SRT0050025,White Super Net Party Saree,2545
+1093,SRT0050026,Grey Green Net Party Saree,3755
+1094,SRT0050027,Wine Cream Faux Chiffon Jacquard Party Saree,3285
+1095,SRT0050028,Peach Net Party Saree,2485
+1096,SRT0050030,Brown Net Party Saree,3295
+1097,SRT0050031,Violet Net Party Saree,3775
+1098,SRT0050032,Teal Green Faux Georgette Party Saree,1975
+1099,SRT0050033,White Super Net Party Saree,2495
+1100,SRT0050035,Brown Super Net Party Saree,3065
+1101,SRT0050036,Pink Super Net Party Saree,3465
+1102,SRT0050037,Black Super Net Party Saree,2475
+1103,SRT0050038,Metallic Green Super Net Saree,2685
+1104,SRT0050039,White Paisley Super Net Party Saree,3595
+1105,SRT0050040,Brown Super Net Leafy Party Saree,3295
+1153,VNS0020077,Maroon Pure Silk Banarasi Saree,9200
+1154,VNS0020078,Mustard Pure Silk Banarasi Saree,9200
+1155,VNS0020079,Purple Pure Silk Banarasi Saree,8500
+1156,VNS0020080,Maroon Pure Silk Banarasi Saree with Parrot Buttas,8500
+1157,VNS0020081,Magenta Rust Pure Silk Banarasi Saree,8500
+1158,VNS0020082,Green Pure Silk Banarasi Saree,6400
+1159,VNS0020083,Magenta Pure Silk Banarasi Saree,6400
+1160,VNS0020084,Mustard Pure Silk Banarasi Saree,6400
+1161,VNS0020085,Dark Magenta Pure Silk Banarasi Saree,8500
+1162,VNS0020086,Magenta Pure Silk Banarasi Saree,8500
+1163,VNS0020087,Pink Pure Silk Banarasi Saree,8500
+1164,VNS0020088,Magenta Paisley Pure Silk Banarasi Saree,8500
+1165,VNS0020089,Pink Pure Silk Banarasi Saree with Floral Buttas,8500
+1166,VNS0020090,Maroon Pure Silk Banarasi Saree,7800
+1167,VNS0020091,Magenta Pure Silk Banarasi Saree with Floral Buttas,7800
+1168,VNS0020092,Magenta Pure Silk Banarasi Saree with Buttas,9800
+1169,VNS0020093,Purple Pure Silk Banarasi Saree with Buttas,8800
+1170,VNS0020094,Magenta Pure Silk Banarasi Saree,8800
+1171,VNS0020095,Turquoise Pure Silk Banarasi Saree,8800
+1172,VNS0020096,Magenta Brown Pure Silk Banarasi Saree,8800
+1173,VNS0020097,Purple Rust Pure Silk Banarasi Saree,8200
+1174,VNS0020098,Purple Rust Pure Silk Banarasi Saree,8200
+1175,VNS0020099,Magenta Rust Pure Silk Banarasi Saree,8200
+1176,VNS0020100,Purple Rust Pure Silk Banarasi Saree,8200
+1177,VNS0020101,Green Pure Silk Banarasi Saree with Buttas,8200
+1178,VNS0020026,Purple Banarasi Art Silk Saree,1250
+1179,VNS0020027,Maroon Art Silk Banarasi Saree,1250
+1180,VNS0020028,Green and Mustard Banarasi Art Silk Saree,1250
+1181,VNS0020029,Light Brown Banarasi Art Silk Saree,1250
+1182,VNS0020030,Rust Banarasi Art Silk Saree,1250
+1183,VNS0020031,Dark Purple Banarasi Art Silk Saree,1250
+1184,VNS0020032,Blue Banarasi Art Silk Saree,1250
+1185,VNS0020033,Mustard Banarasi Art Silk Saree,1250
+1186,VNS0020034,Pink and Mustard Banarasi Art Silk Saree,1250
+1187,VNS0020035,Light Brown Banarasi Art Silk Saree,1250
+1188,VNS0020036,Dark Magenta Banarasi Art Silk Saree,850
+1189,VNS0020037,Magenta Banarasi Art Silk Saree,850
+1190,VNS0020038,Green Banarasi Art Silk Saree,850
+1191,VNS0020039,Dark Magenta Banarasi Art Silk Saree,550
+1192,VNS0020040,Dual Tonal Green Magenta Banarasi Art Silk Saree,550
+1193,VNS0020041,Dual Tonal Sea Green Maroon Banarasi Art Silk Saree,550
+1194,VNS0020042,Dual Tonal Rust Turquoise Banarasi Art Silk Saree,550
+1195,VNS0020043,Turquoise Banarasi Art Silk Saree,550
+1196,VNS0020044,Dual Tonal Rust Maroon Banarasi Art Silk Saree,550
+1197,VNS0020045,Dual Tonal Green Purple Banarasi Art Silk Saree,550
+1198,VNS0020046,Pink Banarasi Art Silk Saree,550
+1199,VNS0020001,Light Turquoise Banarasi Cotton Saree,1675
+1200,VNS0020002,Peach Banarasi Cotton Saree,1675
+1201,VNS0020003,Violet Banarasi Cotton Saree,1675
+1202,VNS0020004,Tussar Banarasi Cotton Saree,1675
+1203,VNS0020005,Light Turquoise Banarasi Cotton Saree,1675
+1204,VNS0020006,Peach Banarasi Cotton Saree,1675
+1205,VNS0020007,Violet Banarasi Cotton Saree,1675
+1206,VNS0020008,Light Green Banarasi Cotton Saree,1675
+1207,VNS0020009,Light Turquoise Banarasi Cotton Saree,1675
+1208,VNS0020010,Light Green Banarasi Cotton Saree,1675
+1209,VNS0020011,Peach Banarasi Cotton Saree,1675
+1210,VNS0020012,Light Green Paisley Banarasi Cotton Saree,1675
+1211,VNS0020013,Violet Paisley Banarasi Cotton Saree,1675
+1212,VNS0020014,Light Green Banarasi Cotton Saree with Resham,1675
+1213,VNS0020015,Peach Banarasi Cotton Saree with Resham,1675
+1214,VNS0020016,Tussar Paisley Banarasi Cotton Saree,1675
+1215,VNS0020017,Violet Banarasi Cotton Zari Saree,1225
+1216,VNS0020018,Ligth Green Zigzag Banarasi Cotton Saree,1225
+1217,VNS0020019,Tussar Zigzag Banarasi Cotton Saree,1225
+1218,VNS0020020,Pink Banarasi Cotton Saree,1225
+1219,VNS0020021,Turquoise Banarasi Cotton Saree,1225
+1220,VNS0020022,Green Banarasi Cotton Saree,1675
+1221,VNS0020023,Mustard Banarasi Cotton Saree,1675
+1222,VNS0020024,Dark Turquoise Banarasi Cotton Saree,1675
+1223,VNS0020025,Black Banarasi Cotton Saree,1675
+1225,BLR0080044,Maroon and Red Pure Silk Saree,3750
+1226,BLR0080045,Purple and Pink Pure Silk Saree,3750
+1227,BLR0080046,Jet Black and Maroon Pure Silk Saree,4400
+1228,BLR0080047,Mustard Yellow and Maroon Pure Silk Saree,4400
+1229,BLR0080048,Purple and Green Pure Silk Saree,4400
+1230,BLR0080049,Mustard Yellow and Red Pure Silk Saree,4400
+1231,BLR0080050,Maroon and Purple Pure Silk Saree,5100
+1232,BLR0080051,Henna Green and Rust Pure Silk Saree,5100
+1233,BLR0080052,Maroon and Green Pure Silk Saree,5300
+1234,BLR0080053,Deep Maroon Pure Silk Saree,5300
+1235,BLR0080054,Magenta and Mustard Yellow Pure Silk Saree,4950
+1236,BLR0080055,Deep Purple and Magenta Pure Silk Saree,4950
+1237,BLR0080057,Off White Pure Silk Saree,5400
+1238,BLR0080058,Multicolored Pure Silk Saree,4850
+1239,BLR0080059,Green Pure Silk Saree,4850
+1241,BLR0140001,Brown Zigzag Art Silk Saree,2035
+1242,BLR0140002,Deep Purple Violet Art Silk Saree,2035
+1243,BLR0140003,Peacock Blue Zigzag Art Silk Saree,2035
+1244,BLR0140004,Dark Brown Zigzag Art Silk Saree,2035
+1245,BLR0140005,Bridal Red Pure Chiffon Saree with Crystal Stones,3175
+1246,BLR0140006,Magenta Pure Chiffon Saree with Crystal Stones,3175
+1247,BLR0140007,Black Pure Chiffon Saree with Crystal Stones,3175
+1248,BLR0140008,Aqua Green Pure Chiffon Saree with Crystal Stones,3175
+1249,BLR0140009,Olive Green Pure Chiffon Saree with Spiral Design,3450
+1250,BLR0140010,Bridal Red Pure Chiffon Saree with Spiral Design,3450
+1251,BLR0140011,Peacock Blue Art Silk Saree with Spiral Design,3450
+1252,BLR0140012,Electric Blue Pure Chiffon Saree with Spiral Design,3450
+1253,BLR0140013,Off White Pure Chiffon Saree with Crystal Stones,2615
+1254,BLR0140014,Jet Black Pure Chiffon Saree with Crystal Stones,2615
+1255,BLR0140015,Sapphie Blue Pure Chiffon Saree,2615
+1256,BLR0140017,Bridal Red Pure Chiffon Saree,2415
+1257,BLR0140018,Jet Black Pure Chiffon Saree with Tissue Border,2415
+1258,BLR0140019,Turquoise Blue Pure Chiffon Saree,2415
+1259,BLR0140020,Rani Pink Pure Chiffon Saree,2415
+1260,BLR0140021,Beige Pure Georgette Saree,3955
+1262,BLR0140022,Beige and Blue Pure Georgette Saree,3955
+1263,BLR0140024,Beige and Pink Pure Georgette Saree,3955
+1264,BLR0140025,Pink Pure Georgette Saree,4225
+1265,BLR0140027,Sea Green Pure Georgette Saree,4225
+1266,BLR0140026,Grey Pure Georgette Saree,4225
+1267,BLR0140028,Blue Pure Georgette Saree,4225
+1268,BLR0140029,Sapphire Blue Pure Georgette Saree,4165
+1269,BLR0140030,Off White Pure Georgette Saree,4165
+1270,BLR0140031,Mustard Yellow Pure Georgette Saree,4165
+1271,BLR0140032,Bridal Red Pure Georgette Saree,4165
+1272,BLR0140033,Pink Pure Georgette Saree,4210
+1273,BLR0140034,Bridal Red Pure Georgette Saree,4210
+1274,BLR0140035,Peacock Blue Pure Georgette Saree,4210
+1275,BLR0140036,Jet Black Pure Georgette Saree,4210
+1276,BLR0140037,Pink and Grey Pure Chiffon Saree,3075
+1277,BLR0140038,Pink and Sky Blue Pure Chiffon Saree,3075
+1278,BLR0140039,Light Yellow and Onion Pink Pure Chiffon Saree,3075
+1279,BLR0140040,Pista Green and Beige Pure Chifffon Saree,3075
+1280,BLR0140041,Royal Blue Pure Chiffon Tie and Dye Saree,3285
+1281,BLR0140042,Aqua Green Pure Chiffon Tie and Dye Saree,3285
+1282,BLR0140043,Fuchsia Pink Pure Chiffon Tie and Dye Saree,3285
+1283,BLR0140044,Henna  Green Pure Chiffon Tie and Dye Saree,3285
+1284,BLR0140045,Aqua Blue Paisley Pure Chiffon Saree,3730
+1285,BLR0140046,Off White Paisley Pure Chiffon Saree,3730
+1286,BLR0140047,Bottle Green Pure Chiffon Saree,3730
+1287,BLR0140048,Magenta Paisley Pure Chiffon Saree,3730
+1288,BLR0140049,Peacock Blue Paisley Pure Georgette Saree,3065
+1289,BLR0140050,Olive Green Paisley Pure Georgette Saree ,3065
+1290,BLR0140051,Grey and Black Paisley Pure Georgette Saree,3065
+1291,BLR0140052,Pink Paisley Pure Georgette Saree,3065

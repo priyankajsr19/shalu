@@ -1,0 +1,9 @@
+Hi {firstname},
+
+Welcome to IndusDiva.com, the leading portal for finest selection of Indian ethnic wear. Your username is {email} and you can use it to log in to our website and access your order status and history. 
+
+As a welcome gesture, we are delighted to offer {amount} to you for shopping with us. Also, we are glad to inform that you are now a part of the exclusive Club Diva and for every activity of yours you shall be earning Diva Coins, redeemable on orders. You can access your Voucher Codes ({shop_url}/discount.php) by clicking on the link.
+
+For any further queries, please get in touch with us at care@indusdiva.com. 
+
+Shop Now by clicking on this link ({shop_url})

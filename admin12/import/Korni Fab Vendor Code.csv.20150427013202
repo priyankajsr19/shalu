@@ -1,0 +1,323 @@
+Product_ID,Name,Supplier Code
+67879,Purple Cotton Saree,KR0001
+67880,Green Cotton Saree,KR0002
+67881,Maroon Cotton Saree,KR0003
+67882,Magenta Silk Cotton Saree,KR0004
+67883,Purple Silk Cotton Saree,KR0005
+67884,Maroon Silk Cotton Saree,KR0006
+67885,Dark Purple Silk Cotton Saree,KR0007
+67886,Black Silk Cotton Saree,KR0008
+67887,Purple Silk Cotton Saree,KR0009
+67888,Rust Silk Cotton Saree,KR0010
+67889,Maroon Silk Cotton Saree,KR0011
+67890,Teal Blue Silk Cotton Saree,KR0012
+67891,Blue Silk Cotton Saree,KR0013
+67892,Beige Silk Cotton Saree,KR0014
+67893,Pink Silk Cotton Saree,KR0015
+67894,Sky Blue Silk Cotton Saree,KR0016
+67895,Light Pink Silk Cotton Saree,KR0017
+67896,Beige Silk Cotton Saree,KR0018
+67897,Brown Cotton Saree,KR0019
+67898,Black Silk Cotton Saree,KR0020
+67899,Black Silk Cotton Saree,KR0021
+67900,Magenta Silk Cotton Saree,KR0022
+67901,Blue Silk Cotton Saree,KR0023
+67902,Beige and Red Silk Cotton Saree,KR0024
+67903,Pink and Red Silk Cotton Saree,KR0025
+67904,Off White Silk Cotton Saree,KR0026
+67905,Off White Silk Cotton Saree,KR0027
+67906,Yellow Silk Cotton Saree,KR0028
+67907,Peach Silk Cotton Saree,KR0029
+67908,Green Silk Cotton Saree,KR0030
+67909,Orange Silk Cotton Saree,KR0031
+67910,Blue Silk Cotton Saree,KR0032
+67911,Grey Silk Cotton Saree,KR0033
+67912,Grey Silk Cotton Saree,KR0034
+67913,Off White and Purple Silk Cotton Saree,KR0035
+67914,Off White and Blue Silk Cotton Saree,KR0036
+67915,Rust Silk Cotton Saree,KR0037
+67916,Black Mangalagiri Cotton Saree,KR0038
+67917,Green Silk Cotton Saree,KR0039
+67919,White Silk Cotton Saree,KR0041
+67920,Mustard Yellow Cotton Saree,KR0042
+67921,Purple Silk Cotton Saree,KR0043
+67922,Blue Silk Cotton Saree,KR0044
+67923,Pink Silk Cotton Saree,KR0045
+67924,Blue and Rust Silk Cotton Half and Half Saree,KR0046
+67925,Blue Silk Cotton Saree,KR0047
+67926,Light Orange and Green Silk Cotton Saree,KR0048
+67927,Blue and Green Silk Cotton Saree,KR0049
+67928,White and Green Silk Cotton Saree,KR0050
+67929,Pink and Green Silk Cotton Saree,KR0051
+67975,White Kora Cotton Saree,KR0052
+67976,Off White Kora Cotton Saree,KR0053
+67978,White Cotton Kasavu Saree,KR0055
+67979,White Cotton Kasavu Saree,KR0056
+67980,White Cotton Saree,KR0057
+67981,Maroon Cotton Saree,KR0059
+67982,Black and Rust Mangalgiri Cotton Saree,KR0061
+67983,Blue and Magenta Kora Cotton Saree,KR0063
+67984,Multicolor Faux Cotton Saree,KR0065
+67985,Grey and White Faux Cotton Saree,KR0066
+67986,White and Maroon Faux Cotton Saree,KR0067
+67987,Red and White Faux Cotton Saree,KR0068
+67988,Blue and White Faux Cotton Saree,KR0069
+67989,Green and White Faux Cotton Saree,KR0070
+67990,Green and Beige Faux Cotton Saree,KR0071
+67991,Blue and Beige Faux Cotton Saree,KR0072
+67992,Orange and Beige Faux Cotton Saree,KR0073
+67993,Blue and Beige Faux Cotton Saree,KR0074
+67994,Pink and Beige Faux Cotton Saree,KR0075
+67995,White and Black Faux Cotton Saree,KR0076
+67996,White and Red Faux Cotton Saree,KR0077
+67997,White and Green Faux Cotton Saree,KR0078
+67998,White and Maroon Faux Cotton Saree,KR0079
+67999,Multicolor Faux Cotton Saree,KR0080
+68000,Multicolor Faux Cotton Saree,KR0081
+68001,Multicolor Faux Cotton Saree,KR0082
+68002,Multicolor Faux Cotton Saree,KR0083
+68003,Light Brown and White Faux Cotton Saree,KR0084
+68004,Orange and White Faux Cotton Saree,KR0085
+68005,Light Purple and White Faux Cotton Saree,KR0086
+68006,Red and White Faux Cotton Saree,KR0087
+68007,Blue and White Faux Cotton Saree,KR0088
+68008,Multicolor Faux Cotton Saree,KR0089
+68009,Multicolor Faux Cotton Saree,KR0090
+68010,Multicolor Faux Cotton Saree,KR0091
+68011,Multicolor Faux Cotton Saree,KR0092
+68012,Multicolor Faux Cotton Saree,KR0093
+68013,Multicolor Faux Cotton Saree,KR0094
+68014,Multicolor Faux Cotton Saree,KR0095
+68015,Multicolor Faux Cotton Saree,KR0096
+68016,Multicolor Faux Cotton Saree,KR0097
+68017,Multicolor Faux Cotton Saree,KR0098
+68018,Off White and Blue Faux Cotton Saree,KR0099
+68019,Off White and Brown Faux Cotton Saree,KR0100
+68020,Orange and White Faux Cotton Saree,KR0101
+68021,Blue and White Faux Cotton Saree,KR0102
+68022,Pink and White Faux Cotton Saree,KR0103
+68023,Green and White Faux Cotton Saree,KR0104
+67930,Beige and Blue Faux Cotton Saree,KR0105
+67931,Beige and Maroon Faux Cotton Saree,KR0106
+67932,Beige and Green Faux Cotton Saree,KR0107
+67933,Beige and Black Faux Cotton Saree,KR0108
+67934,Beige and Yellow Faux Cotton Saree,KR0109
+67935,White and Mustard Faux Cotton Saree,KR0110
+67936,White and Blue Faux Cotton Saree,KR0111
+67937,White and Green Faux Cotton Saree,KR0112
+67938,White and Red Faux Cotton Saree,KR0113
+67939,White and Purple Faux Cotton Saree,KR0114
+67940,White and Red Faux Cotton Saree,KR0115
+67941,White and Green Faux Cotton Saree,KR0116
+67942,White and Blue Faux Cotton Saree,KR0117
+67943,White and Yellow Faux Cotton Saree,KR0118
+67944,Multicolor Faux Cotton Saree,KR0119
+67945,Multicolor Faux Cotton Saree,KR0120
+67946,Multicolor Faux Cotton Saree,KR0121
+67947,Multicolor Faux Cotton Saree,KR0122
+67948,Multicolor Faux Cotton Saree,KR0123
+67949,Multicolor Faux Cotton Saree,KR0124
+67950,Multicolor Faux Cotton Saree,KR0125
+67951,Light Blue and White Faux Cotton Saree,KR0126
+67952,Light Orange and White Faux Cotton Saree,KR0127
+67953,Grey and White Faux Cotton Saree,KR0128
+67954,Blue and White Faux Cotton Saree,KR0129
+67955,Light Purple and White Faux Cotton Saree,KR0130
+67956,Grey and White Faux Cotton Saree,KR0131
+67957,Purple and White Faux Cotton Saree,KR0132
+67958,Light Orange and White Faux Cotton Saree,KR0133
+67959,Blue and White Faux Cotton Saree,KR0134
+67960,Light Blue and White Faux Cotton Saree,KR0135
+67961,Light Orange and White Faux Cotton Saree,KR0136
+67962,Grey and White Faux Cotton Saree,KR0137
+67963,Light Purple and White Faux Cotton Saree,KR0138
+67964,Light Blue and White Faux Cotton Saree,KR0139
+67965,Blue and White Faux Cotton Saree,KR0140
+67966,Mustard Yellow Faux Cotton Saree,KR0145
+67967,Green Faux Cotton Saree,KR0146
+67968,Red Faux Cotton Saree,KR0147
+67969,Blue Faux Cotton Saree,KR0148
+67970,Blue and White Faux Cotton Saree,KR0149
+67971,Beige and Purple Faux Cotton Saree,KR0150
+67972,Beige and Blue Faux Cotton Saree,KR0151
+67973,Beige and Brown Faux Cotton Saree,KR0152
+67974,Beige and Black Faux Cotton Saree,KR0153
+68088,Beige and Green Poly Cotton Saree,KR0154
+68089,Beige and Rust Poly Cotton Saree,KR0155
+68090,Turquoise and Beige Poly Cotton Saree,KR0156
+68091,Brown and Beige Poly Cotton Saree,KR0157
+68092,Orange and Magenta Poly Cotton Saree,KR0158
+68095,Black and White Poly Cotton Saree,KR0161
+68096,White and Red Poly Cotton Saree,KR0162
+68097,White and Orange Poly Cotton Saree,KR0163
+68098,White and Blue Poly Cotton Saree,KR0164
+68099,White and Brown Poly Cotton Saree,KR0165
+68100,Orange and Black Poly Cotton Saree,KR0166
+68101,Green and Black Poly Cotton Saree,KR0167
+68102,Blue and Black Poly Cotton Saree,KR0168
+68103,Purple and Black Poly Cotton Saree,KR0169
+68104,Blue Poly Cotton Saree,KR0170
+68105,Black Poly Cotton Saree,KR0171
+68106,Teal Green Poly Cotton Saree,KR0172
+68107,Maroon Poly Cotton Saree,KR0173
+68108,Mustard Yellow Poly Cotton Saree,KR0174
+68109,Purple Poly Cotton Saree,KR0175
+68110,White and Blue Poly Cotton Saree,KR0176
+68111,White and Maroon Poly Cotton Saree,KR0177
+68112,White and Black Poly Cotton Saree,KR0178
+68113,White and Red Poly Cotton Saree,KR0179
+68114,White and Purple Poly Cotton Saree,KR0180
+68115,White and Blue Poly Cotton Saree,KR0181
+68116,White and Yellow Poly Cotton Saree,KR0182
+68117,White and Maroon Poly Cotton Saree,KR0183
+68118,White and Green Poly Cotton Saree,KR0184
+68119,White and Grey Poly Cotton Saree,KR0185
+68120,Green and Beige Poly Cotton Saree,KR0186
+68121,Blue and Beige Poly Cotton Saree,KR0187
+68122,Turquoise and Beige Poly Cotton Saree,KR0188
+68123,Black and Beige Poly Cotton Saree,KR0189
+68124,Maroon and Beige Poly Cotton Saree,KR0190
+68125,Blue Poly Cotton Saree,KR0191
+68126,Pink Poly Cotton Saree,KR0192
+68127,Maroon Poly Cotton Saree,KR0193
+68128,Orange Poly Cotton Saree,KR0194
+68129,Blue Poly Cotton Saree,KR0195
+68130,Blue and Beige Poly Cotton Saree,KR0196
+68131,Red and Beige Poly Cotton Saree,KR0197
+68132,Black and Beige Poly Cotton Saree,KR0198
+68133,Green and Beige Poly Cotton Saree,KR0199
+68134,Maroon and Beige Poly Cotton Saree,KR0200
+68135,Pink Poly Cotton Saree,KR0201
+68136,Grey Poly Cotton Saree,KR0202
+68137,Blue Poly Cotton Saree,KR0203
+68138,Purple Poly Cotton Saree,KR0204
+68139,Beige Poly Cotton Saree,KR0205
+68024,Blue and White Faux Cotton Saree,KR0206
+68025,Rust and White Faux Cotton Saree,KR0207
+68026,Brown and White Faux Cotton Saree,KR0208
+68027,Yellow and White Faux Cotton Saree,KR0209
+68029,Rust and White Faux Cotton Saree,KR0211
+68030,Brown and White Faux Cotton Saree,KR0212
+68031,Blue and White Faux Cotton Saree,KR0213
+68032,Blue and Black Faux Cotton Saree,KR0214
+68033,Yellow and White Faux Cotton Saree,KR0215
+68034,White and Green Faux Cotton Saree,KR0216
+68035,Green and Red Faux Cotton Saree,KR0217
+68036,Blue and White Faux Cotton Saree,KR0218
+68037,White and Green Faux Cotton Saree,KR0219
+68038,Magenta Faux Cotton Saree,KR0220
+68039,Turquoise Blue Faux Cotton Saree,KR0221
+68040,Black Faux Cotton Saree,KR0222
+68041,Red Faux Cotton Saree,KR0223
+68042,Green and Maroon Faux Cotton Saree,KR0224
+68043,Black and Blue Faux Cotton Saree,KR0225
+68044,Blue and Black Faux Cotton Saree,KR0226
+68045,Maroon and Green Faux Cotton Saree,KR0227
+68046,Purple and Blue Faux Cotton Saree,KR0228
+68047,Red and Gold Faux Cotton Saree,KR0229
+68048,Pink Faux Cotton Saree,KR0230
+68049,Black Faux Cotton Saree,KR0231
+68050,Blue Faux Cotton Saree,KR0232
+68051,Maroon Faux Cotton Saree,KR0233
+68052,Teal Blue Faux Cotton Saree,KR0234
+68053,Black Faux Cotton Saree,KR0235
+68054,Maroon Faux Cotton Saree,KR0236
+68055,Pink Faux Cotton Saree,KR0237
+68056,Black Faux Cotton Saree,KR0238
+68057,Maroon Faux Cotton Saree,KR0239
+68058,Pink Faux Cotton Saree,KR0240
+68059,Blue Faux Cotton Saree,KR0241
+68060,Pink Faux Cotton Saree,KR0242
+68061,Teal Blue Faux Cotton Saree,KR0243
+68062,Black Faux Cotton Saree,KR0244
+68063,Maroon Faux Cotton Saree,KR0245
+68064,Yellow Faux Cotton Saree,KR0246
+68065,Peach and Magenta Faux Cotton Saree,KR0247
+68066,Light Orange and Pink Faux Cotton Saree,KR0248
+68067,Light Lavender and Pink Faux Cotton Saree,KR0249
+68068,Red Faux Cotton Saree,KR0250
+68069,Pink Faux Cotton Saree,KR0251
+68070,Yellow Faux Cotton Saree,KR0252
+68071,Green and Mustard Faux Cotton Saree,KR0253
+68072,Red Faux Cotton Saree,KR0254
+68073,Magenta Faux Cotton Saree,KR0255
+68074,Black and Blue Faux Cotton Saree,KR0256
+68075,Black and Pink Faux Cotton Saree,KR0257
+68076,Black and Grey Faux Cotton Saree,KR0258
+68077,Black and Purple Faux Cotton Saree,KR0259
+68078,Mustard and Teal Blue Faux Cotton Half and Half Saree,KR0260
+68079,Teal Blue and Mustard Faux Cotton Half and Half Saree,KR0261
+68080,Pink and Teal Blue Faux Cotton Half and Half Saree,KR0262
+68081,Teal Blue and Pink Faux Cotton Half and Half Saree,KR0263
+68082,Mustard and Red Faux Cotton Half and Half Saree,KR0264
+68083,Red and Black Faux Cotton Half and Half Saree,KR0265
+68084,Red and Black Faux Cotton Half and Half Saree,KR0266
+68085,Red and Black Faux Cotton Half and Half Saree,KR0268
+68086,Maroon and Beige Faux Cotton Saree,KR0269
+68087,Beige and Black Faux Cotton Saree,KR0270
+68230,Maroon and Beige Poly Cotton Saree,KR0271
+68231,Blue and Beige Poly Cotton Saree,KR0272
+68232,Green and Beige Poly Cotton Saree,KR0273
+68233,Green Poly Cotton Saree,KR0274
+68234,Black Poly Cotton Saree,KR0275
+68235,Teal Blue Poly Cotton Saree,KR0276
+68236,Maroon Poly Cotton Saree,KR0277
+68237,Yellow Poly Cotton Saree,KR0278
+68238,Orange and Blue Poly Cotton Saree,KR0279
+68239,Purple and Mustard Poly Cotton Saree,KR0280
+68240,Red and Blue Poly Cotton Saree,KR0281
+68241,Purple and Black Poly Cotton Saree,KR0282
+68242,Green and Purple Poly Cotton Saree,KR0283
+68243,Red Poly Cotton Saree,KR0284
+68244,Green Poly Cotton Saree,KR0285
+68245,Green Poly Cotton Saree,KR0286
+68246,Blue Poly Cotton Saree,KR0287
+68247,Mustard Yellow Poly Cotton Saree,KR0288
+68248,Multicolor Poly Cotton Saree,KR0289
+68249,Multicolor Poly Cotton Saree,KR0290
+68250,Multicolor Poly Cotton Saree,KR0291
+68251,Multicolor Poly Cotton Saree,KR0292
+68252,Multicolor Poly Cotton Saree,KR0293
+68253,Beige and Red Poly Cotton Saree,KR0294
+68254,Beige and Blue Poly Cotton Saree,KR0295
+68255,Beige and Maroon Poly Cotton Saree,KR0296
+68256,Beige and Brown Poly Cotton Saree,KR0297
+68257,Beige and Teal Blue Poly Cotton Saree,KR0298
+68258,Green and Off White Poly Cotton Saree,KR0299
+68259,Orange and Off White Poly Cotton Saree,KR0300
+68260,Blue and Off White Poly Cotton Saree,KR0301
+68261,Purple and Off White Poly Cotton Saree,KR0302
+68262,Blue and Off White Poly Cotton Saree,KR0303
+68263,Teal Blue Poly Cotton Saree,KR0304
+68264,Green Poly Cotton Saree,KR0305
+68265,Black Poly Cotton Saree,KR0306
+68266,Maroon Poly Cotton Saree,KR0307
+68267,Brown Poly Cotton Saree,KR0308
+68268,Multicolor Poly Cotton Half and Half Saree,KR0309
+68269,Blue Poly Cotton Saree,KR0310
+68270,Yellow Poly Cotton Saree,KR0311
+68271,Red Cotton Saree,KR0312
+68272,Black Cotton Saree,KR0313
+68273,Pista Green Cotton Saree,KR0314
+68274,Green Cotton Saree,KR0315
+68275,Maroon Cotton Saree,KR0316
+68276,Magenta Cotton Saree,KR0317
+68277,Mustard Yellow Cotton Saree,KR0318
+68278,Red Cotton Saree,KR0319
+68279,Teal Blue Cotton Saree,KR0320
+68280,Blue Cotton Saree,KR0321
+68281,Pink Cotton Saree,KR0322
+68282,Orange Cotton Saree,KR0323
+68283,Green Cotton Saree,KR0324
+68284,Beige Cotton Saree,KR0325
+68285,Beige Cotton Saree,KR0326
+68286,Beige Cotton Saree,KR0327
+68287,Beige Cotton Saree,KR0328
+68288,Beige and Brown Cotton Saree,KR0329
+68289,Beige and Purple Cotton Saree,KR0330
+68290,Beige and Blue Cotton Saree,KR0331
+68291,Beige and Green Cotton Saree,KR0332
+68292,White and Pink Cotton Saree,KR0333
+68293,White and Green Cotton Saree,KR0334
+68294,White and Blue Cotton Saree,KR0335
+68295,White and Orange Cotton Saree,KR0336

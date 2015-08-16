@@ -1,0 +1,8 @@
+Updated By : {updated_by} 
+Product Id : {id_product} 
+Name : {name} 
+Code : {code} 
+Location : {location} 
+Quantity : {quantity} 
+Sourcing Price : {sourcing_price} 
+{image_link}

@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Your order #{id_order} cancelled</title>
+</head>
+<body>
+	<table style="font-family:Verdana,sans-serif; font-size:12px; width: 550px;">
+		<tr>
+			<td align="left" style="padding: 0.5em 0em;">
+				Hi {firstname},
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="padding: 0.6em 0em">
+				Thank you  for shopping with IndusDiva. We hope you are pleased with the Order No. #{id_order} (<a href="{shop_url}{order_history_link}">order history</a>) which we delivered to you on {delivery_date}. As we strive to excel in our services, we would request you to share your feedback on your experience with us.</td>
+		</tr>
+		<tr>
+			<td align="left" style="padding: 0.6em 0em">
+				Our small set of questions will not take more than a couple of minutes of your time but will be extremely helpful for us to work harder in our endeavor to delight our customers in all possible ways.
+			</td>
+		</tr>
+		<tr>
+			<td align="center" style="padding: 0.6em 0em">
+				<a href="{shop_url}{feedback_form_link}?oid={id_order}" title="shop now" style="background:#000000;width: 180px;color: white !important;padding: 5px 20px;border-radius: 3px;cursor: pointer;font: bold 13px 'Arial' !important;height: 26px !important;text-align: center;text-decoration: none;">Feedback Form</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="padding: 0.6em 0em">
+				Hope to see you again at IndusDiva!
+			</td>
+		</tr>
+	</table>
+	<br>
+	<span style="margin-bottom: 0cm;">Regards,</span>
+	<span style="margin-bottom: 0cm;">The IndusDiva Team</span>
+	<br><span style="margin-bottom: 0cm;padding-top:5px"><a href="mailto:care@indusdiva.com">care@indusdiva.com</a><br> +91-80-65655500</span>
+</body>
+</html>

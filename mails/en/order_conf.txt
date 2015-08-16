@@ -1,0 +1,33 @@
+﻿Hello {firstname},
+Thank you for shopping with us. Your order {order_name} is confirmed. 
+The expected date of shipping for your order is {shipping_date}.
+Here are the order details:
+
+	Order: {order_name} placed on {date}
+	Payment: {payment}
+
+	Products: {total_products}
+	Discounts: {total_discounts}
+	Shipping: {total_shipping}
+	Total paid: {total_paid}
+
+
+Shipping
+
+	Carrier: {carrier}
+
+	Delivery address:
+
+	{delivery_block_txt}
+
+	Billing address:
+
+	{invoice_block_txt}
+
+If you have ordered for stylized apparel with custom stitching, the concerned team will get back to you in case there is any clarification sought. Please feel free to get back to us if you have any other queries.
+
+You can track your order online by clicking here({shop_url}order-history). 
+
+The IndusDiva Team
+care@indusdiva.com
++91-80-65655500

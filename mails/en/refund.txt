@@ -1,0 +1,8 @@
+Hi {firstname},
+
+Your order amount has been credited to your account against your order #{id_order}. The credited amount should reflect in your account within 7-10 business days. 
+For any further queries, please reach us at care@violetbag.com.
+	
+The VioletBag Team
+care@violetbag.com
++91-80-65655500

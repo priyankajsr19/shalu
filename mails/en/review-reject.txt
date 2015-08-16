@@ -1,0 +1,17 @@
+Hi {firstname},
+
+Thank you for penning down a review at IndusDiva.com. But we are sorry to inform, that your review for {product_name} has been denied approval.
+
+The reason for denial could be :
+1. The review does not meet our quality standards. 
+2. Is very short and non descriptive.
+3. Might not be informative for other users. 
+4. Bad grammar.
+5. Copyright violation or duplicate content.
+
+We request you to please feel free to go through our review guidelines, make the desired changes in your review and resubmit.
+Please click here to resubmit your review ({product_url}).
+
+The IndusDiva Team
+care@indusdiva.com
++91-80-67309079

@@ -1,0 +1,17 @@
+Product ID,Attribution,Quantity,Supplier Cost,MRP
+15723,Age:7-8 years,2,610,24
+19753,Age:7-8 years,2,710,28
+23761,Age:7-8 years,3,400,17
+23762,Age:7-8 years,3,400,17
+15723,Age:8-9 years,5,610,24
+19753,Age:8-9 years,2,710,28
+23761,Age:8-9 years,8,400,17
+23762,Age:8-9 years,9,400,17
+15723,Age:9-10 years,3,610,24
+19753,Age:9-10 years,4,710,28
+23761,Age:9-10 years,5,400,17
+23762,Age:9-10 years,9,400,17
+15723,Age:10-11 years,1,610,24
+19753,Age:10-11 years,5,710,28
+23761,Age:10-11 years,1,400,17
+23762,Age:10-11 years,3,400,17

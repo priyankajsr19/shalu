@@ -1,0 +1,34 @@
+/* adresses */
+
+ul.alternate_item li.address_title { background-image: url('../img/address_alias_right.gif') }
+li.address_name,
+li.address_firstname,
+li.address_lastname,
+ li.address_update a,
+ li.address_delete a { color: #000000; }
+li.address_name,
+li.address_firstname,
+li.address_lastname,
+ li.address_company { font-weight: bold }
+
+span.address_name,
+span.address_firstname,
+span.address_lastname,
+span.address_update a,
+span.address_delete a { color: #dd2a81 }
+span.address_name,
+span.address_firstname,
+span.address_lastname,
+span.address_company { font-weight: bold }
+
+li.address_update,
+ li.address_delete {
+	background: transparent url('../img/bullet_myaccount.gif') no-repeat 0 0.5em!important;
+	background: transparent url('../img/bullet_myaccount.gif') no-repeat 0 0.4em;
+	margin-left: 1.4em
+}
+#center_column .address_add { padding: 1em 0 }
+
+.new_address {
+	padding:10px 10px;
+}

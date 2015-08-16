@@ -1,0 +1,15 @@
+Hi {firstname},
+
+Your order #{id_order} has been shipped. Here are the shipment details:
+
+Carrier: {carrier_name}
+AWB No.: {tracking_number}
+
+You can track your shipment by clicking here ({followup}).
+Kindly note that it might take upto 24 hours for the shipment status to be updated.
+
+Thank you for shopping with {shop_name}!
+
+The IndusDiva Team	
+care@indusdiva.com
++91-80-65655500

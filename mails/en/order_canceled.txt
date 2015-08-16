@@ -1,0 +1,9 @@
+Hi {firstname},
+
+Your order #{id_order} has been cancelled and we are extremely sorry for any inconvenience caused.
+
+We strive to make all your shopping experiences the best. For further queries, please reach us at care@indusdiva.com.
+
+The IndusDiva Team
+care@indusdiva.com
++91-80-65655500

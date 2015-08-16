@@ -1,0 +1,70 @@
+
+/* authentication.tpl */
+#create-account_form,
+ #authentication #login_form {
+	clear: none;
+	width: 350px;
+	float: left
+} 
+#create-account_form h4 {
+	height: 1.4em;
+	padding: 0.3em 3em 0 3em;
+	font-size:12px;
+}
+#create-account_form p.text,
+ #authentication #login_form p.text {
+	height: 3.4em;
+	margin-left: 3em;
+	padding-left: 0;
+	padding-right: 0
+}
+#authentication #login_form a { color: #374853 }
+#create-account_form { margin-right: 11px }
+#create-account_form p.text {
+	text-align: left;
+	width: 100px
+}
+#authentication #create-account_form p.text label { width: 120px }
+#authentication input#SubmitCreate,
+#authentication input#SubmitLogin { margin: auto; }
+#authentication p.submit {
+	margin-right: 0;
+	text-align: left;
+}
+#authentication p.lost_password { padding:0; text-align:center }
+#authentication #create-account_form fieldset,
+ #login_form fieldset { height: 240px }
+ #login_form p.submit span { padding-right: 0.5em }
+#create-account_form label, #login_form label {
+	float: none;
+	clear: both;
+	display: block;
+	text-align: left;
+	width: 100%;
+	margin-bottom: 0.3em
+}
+#account-creation_form input.text, 
+#account-creation_form #id_country, 
+#account-creation_form #id_state, 
+  #authentication textarea, auth_account_input {
+	border: 1px solid #A3A3A3;
+    display: inline;
+    font-size: 1.3em;
+    height: 18px;
+    line-height: 1.3em;
+    padding: 8px 5px;
+    width: 250px;
+  }
+
+.account_creation span.inline-infos
+{
+	width:100%;
+	text-align:left;
+	margin:2px 0 2px 32%;
+	font-size:9px;
+}
+
+#authentication #center_column {width: 980px; margin: 0 0;}
+.center-buttons {
+	padding: 0px !important;
+}

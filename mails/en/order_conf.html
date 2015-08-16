@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Your order #{order_name} with IndusDiva.com is confirmed</title>
+</head>
+<body style="font-family:Verdana,sans-serif; font-size:12px;"">
+	<table style="font-family:Verdana,sans-serif; font-size:12px; color:#374953; width: 550px;">
+		<tr>
+			<td align="left" style="padding: 0.5em 0em;font-family:Verdana,sans-serif; font-size:12px;">
+				Hi {firstname},
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="padding: 0.6em 0em;font-family:Verdana,sans-serif; font-size:12px;">
+				Thank you for shopping with us. Your order <strong>{order_name}</strong> is confirmed. The expected date of shipping for your order is <b>{shipping_date}</b>.
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="padding: 0.6em 0em;font-family:Verdana,sans-serif; font-size:12px;">
+				Here are the order details:
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="font-family:Verdana,sans-serif; font-size:12px;">
+				Order: <strong><span style="color:#333333;padding: 0.6em 0.4em;">{order_name}</span> placed on {date}</strong>
+				<br >Payment: <strong>{payment}</strong>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left">
+				<table style="width:100%; font-family:Verdana,sans-serif; font-size:11px; color:#374953;">
+					<!-- Title -->
+					<tr style="background-color:#B9BABE; text-align:center;">
+						<th style="width:15%; padding: 0.6em 0;">Reference</th>
+						<th style="width:35%; padding: 0.6em 0;">Product</th>
+						<th style="width:15%; padding: 0.6em 0;">Unit price</th>
+						<th style="width:15%; padding: 0.6em 0;">Quantity</th>
+						<th style="width:20%; padding: 0.6em 0;">Total price</th>
+					</tr>
+					<!-- Products -->
+						{products}
+						{discounts}
+					<!-- Footer: prices -->
+					<tr style="text-align:right;">
+						<td height="12px">&nbsp;</td>
+						<td colspan="3" height="12px">Sub-Total</td>
+						<td height="12px">{total_products}</td>
+					</tr>
+					<tr style="text-align:right;">
+						<td height="12px">&nbsp;</td>
+						<td colspan="3" height="12px">Discounts</td>
+						<td height="12px">{total_discounts}</td>
+					</tr>
+					<tr style="text-align:right;">
+						<td height="12px">&nbsp;</td>
+						<td colspan="3" height="12px">Shipping</td>
+						<td height="12px">{total_shipping}</td>
+					</tr>
+					<tr style="text-align:right; font-weight:bold;">
+						<td height="12px">&nbsp;</td>
+						<td colspan="3" height="12px">Total paid</td>
+						<td height="12px">{total_paid}</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td>
+				<table style="width:100%; font-family:Verdana,sans-serif; font-size:11px; color:#374953;">
+					<tr style="background-color:#B9BABE; text-transform:uppercase;">
+						<th style="text-align:left; padding: 0.3em 1em;">Delivery address</th>
+						<th style="text-align:left; padding: 0.3em 1em;">Billing address</th>
+					</tr>
+					<tr>
+						<td style="padding:0.5em 0 0.5em 0.5em; background-color:#EBECEE;">
+							{delivery_block_html}
+						</td>
+						<td style="padding:0.5em 0 0.5em 0.5em; background-color:#EBECEE;">
+							{invoice_block_html}
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="font-family:Verdana,sans-serif; font-size:12px;">
+				If you have ordered for stylized apparel with custom stitching, the concerned team will get back to you in case there is any clarification sought. Please feel free to get back to us if you have any other queries.
+			</td>
+		</tr>
+		<tr>
+			<td align="left" style="font-family:Verdana,sans-serif; font-size:12px;">
+				You can track your order online by <a href="{shop_url}order-history" style="font-weight:bold; text-decoration:none;">clicking here</a>. 
+			</td>
+		</tr>
+	</table>
+	<br>
+	<span style="margin-bottom: 0cm;font-family:Verdana,sans-serif; font-size:12px;">The IndusDiva Team</span>
+	<br><span style="margin-bottom: 0cm;padding-top:5px; font-family:Verdana,sans-serif; font-size:12px;"><a href="mailto:care@indusdiva.com">care@indusdiva.com</a><br> +91-80-65655500</span>
+</body>
+</html>
